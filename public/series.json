@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Unstoppable with NBK",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjc3MGE2ODAtNWE3Ni00Y2VmLWEyY2QtYzQ5YmM2MmY1YmUzXkEyXkFqcGc@._V1_.jpg",
+    "hoverPoster": "https://content.tupaki.com/en/feeds/2024/04/09/348490-aha.gif",
+    "cast": { "hero": "Bala Krishna", "heroine": "", "director": "" },
+    "genre": "Drama",
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": []
+      },
+      {
+        "season": 2,
+        "episodes": []
+      },
+      {
+        "season": 3,
+        "episodes": []
+      },
+      {
+        "season": 4,
+        "episodes": [
+          {
+            "episodeTitle": "Episode 1: Tirigochina Vijayam",
+            "cast": {
+              "hero": "Shri Nara Chandra Babu",
+              "heroine": "",
+              "director": ""
+            },
+            "link": "https://drive.google.com/file/d/1Xv8ph6ywJXlSnwN5TYbm7MgSkPRG1O-i/preview "
+          },
+          {
+            "episodeTitle": "Episode 2: Dil Se Dulquer",
+            "cast": {
+              "hero": " Dulquer Salmaan ",
+              "heroine": "",
+              "director": ""
+            },
+            "link": "https://drive.google.com/file/d/1ULdohHo7XHgzq6ZpVxQdTvxSO3tgPaCN/preview "
+          },
+          {
+            "episodeTitle": "Episode 3: Singham & Samarasimham",
+            "cast": {
+              "hero": "Suriya",
+              "heroine": "",
+              "director": ""
+            },
+            "link": "https://drive.google.com/file/d/1yi0V-0fG5aBknp0rgIOnn68o-bI0K-2W/preview "
+          },
+          {
+            "episodeTitle": "Episode 4: Iddaru Firee : Part - 1",
+            "cast": {
+              "hero": "Allu Arjun",
+              "heroine": "",
+              "director": ""
+            },
+            "link": "https://drive.google.com/file/d/1SRIUiShichriPalWR-8-RmR_Z_m9zHK3/preview "
+          },
+          {
+            "episodeTitle": "Episode 5: Wild Firee : Part - 2",
+            "cast": {
+              "hero": "Allu Arjun",
+              "heroine": "",
+              "director": ""
+            },
+            "link": "https://drive.google.com/file/d/1ETgoypaVXeNTLAEi-A1-xv58tgQz0wtz/preview "
+          },
+          {
+            "episodeTitle": "Episode 6: Ms. Leela & Mr. Polishetty",
+            "cast": {
+              "hero": "Naveen Polishetty",
+              "heroine": "Sreeleela",
+              "director": ""
+            },
+            "link": "https://drive.google.com/file/d/1Nn2cAys9DftQ6JehsYVpqK6KjNNsljjw/preview"
+          }
+        ]
+      }
+    ]
+  }
+]
