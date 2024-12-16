@@ -78,5 +78,55 @@
         ]
       }
     ]
+  },
+  {
+    "title": "The Rana Daggubati Show",
+    "poster": "https://cdn.123telugu.com/content/wp-content/uploads/2024/11/The-Rana-Daggubati.jpg",
+    "hoverPoster": "https://th-i.thgim.com/public/entertainment/movies/49uka4/article68893876.ece/alternates/LANDSCAPE_1200/Rana%20Daggubati.jpeg",
+    "cast": { "hero": "Rana", "heroine": "", "director": "" },
+    "genre": "Talk Show and Variety,Unscripted",
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": [
+          {
+            "episodeTitle": "Episode 1:  Normal Is Boring",
+            "cast": {
+              "hero": "nani,teja",
+              "heroine": "priyanka mohan",
+              "director": ""
+            },
+            "link": "https://drive.google.com/file/d/1Xv8ph6ywJXlSnwN5TYbm7MgSkPRG1O-i/preview "
+          },
+          {
+            "episodeTitle": "Episode 2:  And Just Like That",
+            "cast": {
+              "hero": "siddhu",
+              "heroine": "Sreeleela",
+              "director": ""
+            },
+            "link": "https://drive.google.com/file/d/1Xv8ph6ywJXlSnwN5TYbm7MgSkPRG1O-i/preview "
+          },
+          {
+            "episodeTitle": "Episode 3:  Cousins, Cars and Cinema",
+            "cast": {
+              "hero": "naga chaitanya",
+              "heroine": "",
+              "director": ""
+            },
+            "link": "https://drive.google.com/file/d/1Xv8ph6ywJXlSnwN5TYbm7MgSkPRG1O-i/preview "
+          },
+          {
+            "episodeTitle": "Episode 4:  Master Influencers",
+            "cast": {
+              "hero": "",
+              "heroine": "",
+              "director": "Rajamouli"
+            },
+            "link": "https://drive.google.com/file/d/1Xv8ph6ywJXlSnwN5TYbm7MgSkPRG1O-i/preview "
+          }
+        ]
+      }
+    ]
   }
 ]

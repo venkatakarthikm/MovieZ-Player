@@ -255,5 +255,29 @@
             "director": "Murgadas"
         },
         "genre": "Drama, Action, Thriller, Mystery"
+    },
+    {
+        "title": "Mechanic Rocky",
+        "poster": "https://images.justwatch.com/poster/319130581/s718/mechanic-rocky-2024.jpg",
+        "hoverPoster": "https://imgd.ap7am.com/bimg/cr-20241122rv674063d59b028.jpg",
+        "link": "https://drive.google.com/file/d/1CmGUJ6q57X9p5u9qQBdDCI8txa5kpNok/preview",
+        "cast": {
+            "hero": "Vishwak Sen",
+            "heroine": "Meenakshi Chaudhary,Shraddha Srinath",
+            "director": " Ravi Teja Mullapudi"
+        },
+        "genre": "Comedy,Adventure"
+    },
+    {
+        "title": "Nuvvu Naaku Nachav",
+        "poster": "https://assets.eenadu.net/article_img/50922-nnn22.jpg",
+        "hoverPoster": "https://media.chitrajyothy.com/appimg/galleries/1822072310471847/07232022225852n50_V_jpg--799x414-4g.webp",
+        "link": "https://drive.google.com/file/d/16h-Q_RzFfN0a_9fy8bDIifO8Nf3_7pw7/preview",
+        "cast": {
+            "hero": "Venkatesh",
+            "heroine": "Aarthi Agarwal",
+            "director": "K. Vijaya Bhaskar"
+        },
+        "genre": "Comedy,Family"
     }
 ]
