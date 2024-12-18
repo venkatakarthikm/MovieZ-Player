@@ -36,7 +36,7 @@
         "poster": "https://m.media-amazon.com/images/M/MV5BMWJiZDVkODktZDM2ZS00NzE4LTlhOTEtYzRkYmYyODY4ZmQ2XkEyXkFqcGc@.V1.jpg",
         "hoverPoster": "https://m.media-amazon.com/images/S/pv-target-images/d768148fc8d705135df70d1288031d34cdee462811f955d135f1749579c0a513.SX1080_FMjpg.jpg",
         "link": "https://drive.google.com/file/d/1wV8tvJv3F_ryZ9ALERzWGbL9DXLFb5-i/preview",
-        "cast": { "hero": "Mahesh Babu, Venkatesh", "heroine": "Samantha, Anjali", "director": "Sreekanth Addala" },
+        "cast": { "hero": "Mahesh Babu", "heroine": "Samantha, Anjali", "director": "Sreekanth Addala" },
         "genre": "Drama"
       },
       {
@@ -88,7 +88,7 @@
         "title": "The Dark Knight",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@.V1.jpg",
         "hoverPoster": "https://rukminim2.flixcart.com/image/850/1000/kzzw5u80/poster/o/r/b/medium-joker-the-dark-knight-movie-on-fine-art-paper-hd-quality-original-imagbvmycjvpv5ph.jpeg?q=90&crop=false",
-        "link": "https://drive.google.com/file/d/1WiwihlsOsDtO3thYtZlunezbUKpX7LwA/preview",
+        "link": "https://iplayerhls.com/e/tmuvf2towdaw",
         "cast": { "hero": "Christian Bale", "heroine": "Maggie Gyllenhaal", "director": "Christopher Nolan" },
         "genre": "Action/Thriller",
         "category": "Telugu Dubbed"
@@ -112,11 +112,11 @@
         "hoverPoster": "https://m.media-amazon.com/images/S/pv-target-images/189420c3dbf235953dbb719a513f845fe8422135b1008eadc67b8356ee4d2751.jpg",
         "link": "https://drive.google.com/file/d/11b5AfwbJJ-ihs0sFsreBLhqzTIOYtVBY/preview",
         "cast": {
-            "hero": "Christian Bale",
-            "heroine": "Maggie Gyllenhaal",
-            "director": "Christopher Nolan"
+            "hero": "Sam Worthington",
+            "heroine": "Zoe Saldana",
+            "director": "James Cameron"
         },
-        "genre": "Action/Thriller",
+        "genre": "Action, Fantasy, Thriller",
         "category": "Telugu Dubbed"
     },
     {
@@ -257,6 +257,42 @@
         "genre": "Drama, Action, Thriller, Mystery"
     },
     {
+        "title": "Ala Vaikuntapuram lo",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/2/28/Ala_Vaikunthapurramuloo.jpeg",
+        "hoverPoster": "https://wallpapers.com/images/hd/ala-vaikunthapurramuloo-bantu-dance-poses-qk0j51dvt4v709dd.jpg",
+        "link": "https://drive.google.com/file/d/1Jl0p3dy-AN-GA9OtzdJSZmAm3FdzJHwB/preview",
+        "cast": {
+            "hero": "Allu Arjun",
+            "heroine": "Pooja Hegde",
+            "director": "Trivikram"
+        },
+        "genre": "Drama"
+    },
+    {
+        "title": "Kanguva",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTEyMzJkZjUtM2ZiOS00NzQ1LTgzZjYtYmJiMTg3ZGNlMzc0XkEyXkFqcGc@.V1.jpg",
+        "hoverPoster": "https://images.filmibeat.com/img/2024/12/kanguva1-1733107148.jpg",
+        "link": "https://drive.google.com/file/d/1WNE3juiaSkFLmG9gDhe1fScxCVvGyd6n/preview",
+        "cast": {
+            "hero": "Suriya",
+            "heroine": "Disha patani",
+            "director": "Siva"
+        },
+        "genre": "Action, Fantasy"
+    },
+    {
+        "title": "Animal",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTlhOTI0NGMtYWZmZC00ZTBlLTg2NWMtOWJmZDFkNzQwZjA3XkEyXkFqcGc@.V1.jpg",
+        "hoverPoster": "https://variety.com/wp-content/uploads/2022/12/Animal-first-look.jpg?w=1000&h=564&crop=1",
+        "link": "https://drive.google.com/file/d/1ci0aK-SPW-lSMGK-RqqwV3ITW0T9gZn4/preview",
+        "cast": {
+            "hero": "Ranbir Kapoor",
+            "heroine": "Rashmika Mandanna",
+            "director": "Sandeep reddy vanga"
+        },
+        "genre": "Action, Fantasy"
+    },
+    {
         "title": "Mechanic Rocky",
         "poster": "https://images.justwatch.com/poster/319130581/s718/mechanic-rocky-2024.jpg",
         "hoverPoster": "https://imgd.ap7am.com/bimg/cr-20241122rv674063d59b028.jpg",
@@ -269,9 +305,45 @@
         "genre": "Comedy,Adventure"
     },
     {
+        "title": "Rangasthalam",
+        "poster": "https://static.toiimg.com/photo/msid-63543810/63543810.jpg",
+        "hoverPoster": "https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2018/03/29/Pictures/_a64d53e2-3368-11e8-9916-7e63ef9446cf.jpg",
+        "link": "https://drive.google.com/file/d/1w0M2khdJiTaNJ7amLqpVHKlJFl4LDzph/preview",
+        "cast": {
+            "hero": "Ram Charan",
+            "heroine": "Samantha",
+            "director": "Sukumar"
+        },
+        "genre": "Action,Family"
+    },
+    {
+        "title": "Thangalaan",
+        "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p26983270_p_v13_aa.jpg",
+        "hoverPoster": "https://imagesvs.oneindia.com/img/2024/08/thangalaan-review-01-1723662276.jpg",
+        "link": "https://drive.google.com/file/d/1RmrHGmUQzxbRDMQVa1jkHMXfasiGY5Je/preview",
+        "cast": {
+            "hero": "Vikram",
+            "heroine": "Parvathy Thiruvothu",
+            "director": "Pa. Ranjith"
+        },
+        "genre": "Action,Adventure"
+    },
+    {
+        "title": "Sarrainodu",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Sarrainodu_poster.jpg/220px-Sarrainodu_poster.jpg",
+        "hoverPoster": "https://assets.thehansindia.com/hansindia-bucket/6772_sarainodu.jpg",
+        "link": "https://drive.google.com/file/d/16h-Q_RzFfN0a_9fy8bDIifO8Nf3_7pw7/preview",
+        "cast": {
+            "hero": "Allu Arjun",
+            "heroine": "Rakul Preet Singh,Catherine Tresa",
+            "director": "Boyapati Srinu"
+        },
+        "genre": "Action,Comedy"
+    },
+    {
         "title": "Nuvvu Naaku Nachav",
-        "poster": "https://assets.eenadu.net/article_img/50922-nnn22.jpg",
-        "hoverPoster": "https://media.chitrajyothy.com/appimg/galleries/1822072310471847/07232022225852n50_V_jpg--799x414-4g.webp",
+        "poster": "https://cps-static.rovicorp.com/1/adg/cov584/dru200/u290/u29011in7c5.jpg",
+        "hoverPoster": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2829/552829-h",
         "link": "https://drive.google.com/file/d/16h-Q_RzFfN0a_9fy8bDIifO8Nf3_7pw7/preview",
         "cast": {
             "hero": "Venkatesh",
@@ -279,5 +351,91 @@
             "director": "K. Vijaya Bhaskar"
         },
         "genre": "Comedy,Family"
+    },
+    {
+        "title": "Dookudu",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZmQ3OWVjNTAtOWRhNC00ODc5LWExZjgtN2U4MDgzNmFhMjdiXkEyXkFqcGc@.V1.jpg",
+        "hoverPoster": "https://m.media-amazon.com/images/M/MV5BZWQ2ZGQzZDgtZWQ4MC00N2RhLWE3YjEtMjRjMjE2OWE3N2QyXkEyXkFqcGc@.V1.jpg",
+        "link": "https://drive.google.com/file/d/1rT_e1NIO5Wz6pLN0rTqNXsVslj1AYv3b/preview",
+        "cast": {
+            "hero": "Mahesh Babu",
+            "heroine": "Samantha",
+            "director": "Sreenu Vaitla"
+        },
+        "genre": "Comedy, Action"
+    },
+    
+    {
+        "title": "Julayi",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZmZjZTdlODctOWJiMy00N2NlLTg4Y2YtOWYxNDZmMDZjYTg4XkEyXkFqcGc@.V1.jpg",
+        "hoverPoster": "https://i.ytimg.com/vi/YzmjCwPiLbk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCZ73aicpblWVC4E0xcQtQWDMaWHA",
+        "link": "https://drive.google.com/file/d/104xFd2yVddlNOXFbNLLoyuPdE_0d7KIE/preview",
+        "cast": {
+            "hero": "Allu Arjun",
+            "heroine": "Iliana",
+            "director": "Trivikram"
+        },
+        "genre": "Comedy, Action"
+    },
+     
+    {
+        "title": "Surya S/o Krishnan",
+        "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/surya-s-o-krishnan-et00002203-1689661215.jpg",
+        "hoverPoster": "https://www.newstap.in/h-upload/2023/07/18/1522261-surya.jpg",
+        "link": " https://drive.google.com/file/d/10A6uDO1xwP0vaf2kTbGeIDuPlhCB-Ypc/preview",
+        "cast": {
+            "hero": "Suriya",
+            "heroine": "Sameera Reddy",
+            "director": "Gautam menon"
+        },
+        "genre": "Love, Romance"
+    },
+    {
+        "title": "raghuvaran btech",
+        "poster": "https://survi.in/wp-content/uploads/2015/01/Raghuvaran-B-Tech-Movie-Review-Rating.jpg",
+        "hoverPoster": "https://connectmyindia.com/posts/images/2024/The-movie-Raghuvaran-Btech.jpg",
+        "link": "https://iplayerhls.com/e/yiu0xiuh5gel",
+        "cast": {
+            "hero": "Dhanush",
+            "heroine": "Amala Paul",
+            "director": "R. Velraj"
+        },
+        "genre": "Action,Comedy"
+    },  
+    {
+        "title": "Sarileru Neekevvaru",
+        "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/sarileru-neekevvaru-et00103955-20-10-2020-06-08-06.jpg",
+        "hoverPoster": "https://static.toiimg.com/photo/71480103.jpeg",
+        "link": "https://streamtape.com/e/2PkPw2qZ3oiK6Y/",
+        "cast": {
+            "hero": "Mahesh Babu",
+            "heroine": "Rashmika Mandanna",
+            "director": "Anil Ravipudi"
+        },
+        "genre": "Comedy, Action"
+    },
+    {
+        "title": "S/O Satyamurthy",
+        "poster": "https://images.justwatch.com/poster/15737184/s718/son-of-satyamurthy.jpg",
+        "hoverPoster": "https://static.moviecrow.com/gallery/20150723/68074-posterson-of-satyamurthy.jpg",
+        "link": "https://drive.google.com/file/d/1HBUDbhQtg80TpJEHm4xKNGwMEOGh3fSQ/preview",
+        "cast": {
+            "hero": "Allu Arjun",
+            "heroine": "Samantha,Nithya Menen",
+            "director": "Trivikram Srinivas"
+        },
+        "genre": "Comedy, Action"
+    },
+    {
+        "title": "Raayan",
+        "poster": "https://static.moviecrow.com/gallery/20240628/230737-raayane.jpeg",
+        "hoverPoster": "https://images.filmibeat.com/img/2024/07/newproject-2024-07-26t133852-667-1721981372.jpg",
+        "link": "https://drive.google.com/file/d/1pi3hsYDdye16rrDItZdvYw3_aVjvtRQA/preview",
+        "cast": {
+            "hero": "Dhanush",
+            "heroine": "",
+            "director": "Dhanush"
+        },
+        "genre": "Drama , Action"
     }
 ]
