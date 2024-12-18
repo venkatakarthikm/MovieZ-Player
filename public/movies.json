@@ -406,13 +406,50 @@
         "title": "Sarileru Neekevvaru",
         "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/sarileru-neekevvaru-et00103955-20-10-2020-06-08-06.jpg",
         "hoverPoster": "https://static.toiimg.com/photo/71480103.jpeg",
-        "link": "https://streamtape.com/e/2PkPw2qZ3oiK6Y/",
+        "link": "https://drive.google.com/file/d/1aU2XC08XEiICS7KHxAy79oq47eYEYwy3/preview",
         "cast": {
             "hero": "Mahesh Babu",
             "heroine": "Rashmika Mandanna",
             "director": "Anil Ravipudi"
         },
         "genre": "Comedy, Action"
+    },
+    {
+        "title": "Avengers: Infinity War",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@.V1_FMjpg_UX1000.jpg",
+        "hoverPoster": "https://c4.wallpaperflare.com/wallpaper/559/80/29/movie-avengers-infinity-war-black-widow-captain-america-wallpaper-preview.jpg",
+        "link": "https://drive.google.com/file/d/1teDNYB71upXoQJgP0LdAMHYGAH-UYn-V/preview",
+        "cast": {
+            "hero": "Robert Downey Jr, Chris Hemsworth",
+            "heroine": "Scarlett Johnson",
+            "director": "Anthony Russo, Joe Russo"
+        },
+        "genre": "Action, Sci-fi",
+        "category": "Telugu Dubbed"
+    },
+    {
+        "title": "Devara: Part 1",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzUwZTM1ZDEtZGViOC00YmUxLWEwNWQtNGIyMzE2NWZkYzUyXkEyXkFqcGc@.V1_FMjpg_UX1000.jpg",
+        "hoverPoster": "https://english.mathrubhumi.com/image/contentid/policy:1.9637641:1727442775/Devara.jpg?$p=5d3fa14&f=16x10&w=852&q=0.8",
+        "link": "https://drive.google.com/file/d/1t4Qq6lqAZHbwY3LmvU8Usu8DSvvAAIk2/preview",
+        "cast": {
+            "hero": "Jr NTR",
+            "heroine": "Janhvi Kapoor",
+            "director": "Koratala Siva"
+        },
+        "genre": "Action, Drama"
+    },
+    {
+        "title": "Hanu-Man",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/b/bb/Hanu_Man_film_Release_poster.jpeg",
+        "hoverPoster": "https://connectmyindia.com/posts/images/2024/hanuman-making-video.jpg",
+        "link": "https://drive.google.com/file/d/1deiOs_YFpN0hEz1GrdrgdnrUbHLzgjUI/preview",
+        "cast": {
+            "hero": "Teja Sajja",
+            "heroine": "Amritha Aiyer",
+            "director": "Prasanth Varma"
+        },
+        "genre": "Action, Adventure"
     },
     {
         "title": "S/O Satyamurthy",
@@ -422,6 +459,18 @@
         "cast": {
             "hero": "Allu Arjun",
             "heroine": "Samantha,Nithya Menen",
+            "director": "Trivikram Srinivas"
+        },
+        "genre": "Comedy, Action"
+    },
+    {
+        "title": "Khaleja",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjg5NjVkMTQtMWNlNy00YjQ2LTlkMjktYzA0ZmY2NDg4ZDAwXkEyXkFqcGc@.V1.jpg",
+        "hoverPoster": "https://data1.ibtimes.co.in/en/full/749929/mahesh-babu.jpg",
+        "link": "https://drive.google.com/file/d/17Ou4P9S2VhYEvJKzBuld6fgrf8T6Yyv1/preview",
+        "cast": {
+            "hero": "Mahesh Babu",
+            "heroine": "Anushka Shetty",
             "director": "Trivikram Srinivas"
         },
         "genre": "Comedy, Action"
@@ -438,4 +487,5 @@
         },
         "genre": "Drama , Action"
     }
+    
 ]
