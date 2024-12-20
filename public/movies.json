@@ -486,6 +486,66 @@
             "director": "Dhanush"
         },
         "genre": "Drama , Action"
+    },
+    {
+        "title": "Zebra",
+        "poster": "https://pics.filmaffinity.com/Zebra-963549344-mmed.jpg",
+        "hoverPoster": "https://www.tv5news.in/h-upload/2024/09/17/1359608-.webp",
+        "link": "https://drive.google.com/file/d/1gzHDdhW7ZNHKVZmo5Z13mQ_K9GXNGx94/view?usp=sharing",
+        "cast": {
+            "hero": "Satyadev",
+            "heroine": "",
+            "director": "Eashvar Karthic"
+        },
+        "genre": " Thriller,Drama"
+    },
+    {
+        "title": "Magadheera",
+        "poster": "https://static.toiimg.com/photo/61318577.cms",
+        "hoverPoster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhE_CYNP5AnHErUjVlderSWyV6De56jal4trKu6pMqukMzbEfUM4h5T0Ev08lJASV76QmS3DT-N9zQl6BaL0YYQFvwtE7wanaU35BHu5RM_7HkV1jPnw_bZu1RY-UiqaVogGRFMe_SRiZ2B/s1600/Magadheera-Latest-Wallpapers-5.jpg",
+        "link": "https://drive.google.com/file/d/1wCXnUv0bZLS4w84oBOOQkyboz2CxwbVj/preview",
+        "cast": {
+            "hero": "Ram Charan",
+            "heroine": "Kajal Aggarwal",
+            "director": "S. S. Rajamouli"
+        },
+        "genre": "Fantasy  , Action"
+    },
+    {
+        "title": "Aravinda Sametha Veera Raghava",
+        "poster": "https://images.justwatch.com/poster/258342876/s718/aravinda-sametha-veera-raghava.jpg",
+        "hoverPoster": "https://www.cinejosh.com/reviewsimg/big/aravinda-sametha-veera-raghava-review_b_1110180200.jpg",
+        "link": "https://drive.google.com/file/d/1VksNl_Ah8DmX6VPxtJ-AUDB29deNbF5g/preview",
+        "cast": {
+            "hero": "N. T. Rama Rao Jr",
+            "heroine": "Pooja Hegde",
+            "director": "Trivikram Srinivas"
+        },
+        "genre": "Drama, Action"
+    },
+    {
+        "title": "Vakeel Saab",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNThlOWEzYWMtNjZkMC00N2Y3LWJjNGEtMGMyZmFlNWM5Nzc2XkEyXkFqcGc@._V1_.jpg",
+        "hoverPoster": "https://images.indianexpress.com/2020/03/Vakeel-Saab-first-look-759.jpeg",
+        "link": "https://drive.google.com/file/d/18pA9zRZ2TfqS5wq62rWs_6FUYW2Y-DXw/preview",
+        "cast": {
+            "hero": "Pawan Kalyan",
+            "heroine": "Shruti Haasan,Anjali,Nivetha Thomas,Ananya Nagalla",
+            "director": "Venu Sriram"
+        },
+        "genre": "Thriller , Action"
+    },
+    {
+        "title": "Yogi",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYWVlY2ZiYzgtNjcyOS00N2UzLThiODgtZmFkNDE5MTdlY2NiXkEyXkFqcGc@._V1_.jpg",
+        "hoverPoster": "https://m.media-amazon.com/images/S/pv-target-images/d080b8ff24af610ba5d3816b4df72da2b8021f89ea6bbd5cedb258310678817b.jpg",
+        "link": "https://drive.google.com/file/d/1pMo66bEORAVcukBTEmtWgOR3TJmxueuX/preview",
+        "cast": {
+            "hero": "Prabhas",
+            "heroine": "Nayanthara",
+            "director": "V. V. Vinayak"
+        },
+        "genre": "Drama, Action"
     }
     
 ]
