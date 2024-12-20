@@ -8,7 +8,98 @@
     "seasons": [
       {
         "season": 1,
-        "episodes": []
+        "episodes": [
+          {
+            "episodeTitle": "Episode 1",
+            "cast": {
+              "guest": "Mohan Babu",
+              "heroine": "",
+              "director": ""
+            },
+            "link": "https://drive.google.com/file/d/1un6rMvdqp1DnFqUShltrPmVqDTvlmh_M/preview "
+          },
+          {
+            "episodeTitle": "Episode 2",
+            "cast": {
+              "guest": "Nani",
+              "heroine": "",
+              "director": ""
+            },
+            "link": "https://drive.google.com/file/d/1ZEtA_B1O50vvOM-gYBu17z6k9KyFxUiQ/preview "
+          },
+          {
+            "episodeTitle": "Episode 3",
+            "cast": {
+              "guest": "Brahmanandam,Anil Ravipudi",
+              "heroine": "",
+              "director": ""
+            },
+            "link": "https://drive.google.com/file/d/1E2hYxLrY8EH0Wo3tJBhWXf-0Nr-L0Uu2/preview "
+          },
+          {
+            "episodeTitle": "Episode 4",
+            "cast": {
+              "guest": "Boyapati Srinu,Srikanth,Thaman",
+              "heroine": "",
+              "director": ""
+            },
+            "link": "https://drive.google.com/file/d/1ty1sL1KPR8TbSgCSw94I9C-AiY1nM_FG/preview "
+          },
+          {
+            "episodeTitle": "Episode 5",
+            "cast": {
+              "guest": "S. S. Rajamouli,M. M. Keeravani",
+              "heroine": "",
+              "director": ""
+            },
+            "link": "https://drive.google.com/file/d/1FI6chHPkyNrIz1odgANPIKTCjATZ-oIW/preview "
+          },
+          {
+            "episodeTitle": "Episode 6",
+            "cast": {
+              "hero": "Allu Arjun",
+              "heroine": "Rashmika Mandanna",
+              "director": "Sukumar"
+            },
+            "link": "https://drive.google.com/file/d/1WHfyBZl16kIA_3IJnMlM_RbtD94m7B6F/preview "
+          },
+          {
+            "episodeTitle": "Episode 7",
+            "cast": {
+              "guest": "Ravi Teja,Gopichand Malineni",
+              "heroine": "",
+              "director": ""
+            },
+            "link": "https://drive.google.com/file/d/1j3orweyER2eB1iXzn3Chhck9VT7kebrx/preview"
+          },
+          {
+            "episodeTitle": "Episode 8",
+            "cast": {
+              "guest": "Rana Daggubati",
+              "heroine": "",
+              "director": ""
+            },
+            "link": "https://drive.google.com/file/d/1-ymeYKfaqnuXekhugaVHF8SZYdu5CsRs/preview"
+          },
+          {
+            "episodeTitle": "Episode 9",
+            "cast": {
+              "guest": "Vijay Devarakonda,Puri Jagannadh,Charmme Kaur",
+              "heroine": "",
+              "director": ""
+            },
+            "link": "https://drive.google.com/file/d/1cKYRIiXh_2igs0gImbWYsNvy9dPC-UEc/preview"
+          },
+          {
+            "episodeTitle": "Episode 10",
+            "cast": {
+              "Hero": "Mahesh Babu",
+              "heroine": "",
+              "director": "Vamshi Paidipally"
+            },
+            "link": "https://drive.google.com/file/d/1hFFiMoCoXQXGFkeofyS8jvnTgyfYbECq/preview"
+          }
+        ]
       },
       {
         "season": 2,
