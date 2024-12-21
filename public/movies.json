@@ -97,7 +97,7 @@
         "title": "The Dark Knight Rises",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@.V1_FMjpg_UX1000.jpg",
         "hoverPoster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/6ce5965d-cdb2-4f9c-b22b-ae7a091d95a8/8999b17e-4b13-4d1e-a9c0-3cbd50d803a7?host=wbd-images.prod-vod.h264.io&partner=beamcom",
-        "link": "https://drive.google.com/file/d/1WyP7K2Ux_a3ZX5sLOAmLTQmZkH9j4Lr7/preview",
+        "link": "https://iplayerhls.com/e/1fqp2kq52wcn",
         "cast": {
             "hero": "Christian Bale",
             "heroine": "Maggie Gyllenhaal",
@@ -606,5 +606,17 @@
             "director": "V. V. Vinayak"
         },
         "genre": "Drama, Action"
+    },
+    {
+        "title": "Geetha Govindam",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMWI4MGIzNWEtY2ZkZS00MzZmLWE5N2YtNWIwZDdmMmE0MDdiXkEyXkFqcGc@._V1_.jpg",
+        "hoverPoster": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-0-7463/list/1170x658withlogo66ea819130b54287a432d0e8676f5f89.jpg",
+        "link": "https://drive.google.com/file/d/1pMo66bEORAVcukBTEmtWgOR3TJmxueuX/preview",
+        "cast": {
+            "hero": "The Vijay Deverakonda",
+            "heroine": "Rashmika Mandanna",
+            "director": "Parasuram"
+        },
+        "genre": "Romance,Comedy"
     }
 ]
