@@ -36,13 +36,13 @@
         "poster": "https://m.media-amazon.com/images/M/MV5BMWJiZDVkODktZDM2ZS00NzE4LTlhOTEtYzRkYmYyODY4ZmQ2XkEyXkFqcGc@.V1.jpg",
         "hoverPoster": "https://m.media-amazon.com/images/S/pv-target-images/d768148fc8d705135df70d1288031d34cdee462811f955d135f1749579c0a513.SX1080_FMjpg.jpg",
         "link": "https://drive.google.com/file/d/1wV8tvJv3F_ryZ9ALERzWGbL9DXLFb5-i/preview",
-        "cast": { "hero": "Mahesh Babu", "heroine": "Samantha, Anjali", "director": "Sreekanth Addala" },
+        "cast": { "hero": "Mahesh Babu", "heroine": "Samantha, Anjali", "director": "Venkatesh || Sreekanth Addala" },
         "genre": "Drama"
       },
       {
         "title": "Guntur Kaaram",
-        "poster": "https://static.qobuz.com/images/covers/fc/2b/d1zxokurb2bfc_600.jpg",
-        "hoverPoster": "https://gumlet.vikatan.com/vikatan/2024-01/f72b41ec-4f94-4195-858f-d467671efc97/guntur_kaaram_3.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+        "poster": "https://pbs.twimg.com/media/GCQH01kbAAAKYis?format=jpg&name=large",
+        "hoverPoster": "https://pbs.twimg.com/media/GDVX12rXUAA2Ruy?format=jpg&name=large",
         "link": "https://drive.google.com/file/d/18K3Hs24z1ZyWPKZkf8SFoO0AmdKEqzDr/preview",
         "cast": { "hero": "Mahesh Babu", "heroine": "Sreeleela", "director": "Trivikram" },
         "genre": "Drama"
@@ -119,6 +119,32 @@
         "genre": "Action, Fantasy, Thriller",
         "category": "Telugu Dubbed"
     },
+    {
+        "title": "The Lion King",
+        "poster": "https://m.media-amazon.com/images/S/pv-target-images/2c6bf6218aa296881bfba2aa6838a21a8bf768d844ad4522fe9931cdcb7a9f33.jpg",
+        "hoverPoster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6E3379DBFDA41CF305BFD7FE6D14FDB5F901F0CDC9B27C66D7E6FBEA2864B4F2/scale?width=1200&aspectRatio=1.78&format=webp",
+        "link": "https://drive.google.com/file/d/1ofqAw8ztPGZ3jMws9MxBsWMA3rxMpRJh/preview",
+        "cast": {
+            "hero": "Nani ",
+            "heroine": "",
+            "director": "Jon Favreau"
+        },
+        "genre": "Family, Adventure",
+        "category": "Telugu Dubbed"
+    },{
+        "title": "Stree 2",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTEyYzVjYjEtNWYzZi00NWRhLTgyZjUtNDlkZjBiNWIxYTEwXkEyXkFqcGc@.V1.jpg",
+        "hoverPoster": "https://i.ytimg.com/vi/bNalbPmLJu8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDKPkMF9dz2JQ6eiGetBjs-HgwKHA",
+        "link": "https://drive.google.com/file/d/1iu241_8QPDbnrIpV3oznJ-nzQzzRj_z0/preview",
+        "cast": {
+            "hero": "Rajkummar Rao",
+            "heroine": "Shraddha Kapoor",
+            "director": "Amar Kaushik"
+        },
+        "genre": "Horror,Comedy",
+         "category": "Hindi Version"
+    },
+
     {
         "title": "Darling",
         "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Darling_%282010%29_poster.jpg/220px-Darling_%282010%29_poster.jpg",
@@ -235,8 +261,19 @@
         "cast": {"hero": "Prabhas", "heroine": "Anushka", "director": "SS Rajamouli" },
         "genre": "periodic drama"
       },
-      
       {
+        "title": "Baahubali 2: The Conclusion",
+        "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgytn171u6qR_CxZPbQ4GRfIgu2ffM5Ya3ghiX8AlERDuyo27yvQue9aSK2Au9VOCgZUJj8Ovw2ZtmxaqEPbQlV-lYdlwDIpYVeDw92zmP9cqTJZdtOHzgGufs7-Qcd_eq6arheg5oTkK0/s1600/Baahubali-The-Conclusion-First-Look-Poster-1.jpg",
+        "hoverPoster": "https://stat4.bollywoodhungama.in/wp-content/uploads/2016/03/Baahubali-2-The-Conclusion-2.jpg",
+        "link": "https://drive.google.com/file/d/1mg8XohJ2ZSyvGDe2f07-JE0tTrjwymjX/preview",
+        "cast": {
+            "hero": "Prabhas",
+            "heroine": "Anushka Shetty",
+            "director": "S. S. Rajamouli"
+        },
+        "genre": "Fantasy ,Action"
+    },    
+    {
         "title": "Brindavanam",
         "poster": "https://m.media-amazon.com/images/S/pv-target-images/785dfbfdbcbd37306af753a7b128f7581e9e8f685b826418902f86595625a206.jpg",
         "hoverPoster": "https://m.media-amazon.com/images/S/pv-target-images/033d89b3ed1e83c6acf7d972c8af38cb6e84b2a0622a76cbd716acf54dd377bd.jpg",
@@ -428,6 +465,32 @@
         "category": "Telugu Dubbed"
     },
     {
+        "title": "Avengers: Endgame",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@.V1_FMjpg_UX1000.jpg",
+        "hoverPoster": "https://www.beerita.id/wp-content/uploads/2019/04/endgame-movieposterhd.com_.jpg",
+        "link": "https://drive.google.com/file/d/1dJADuTUrWF5XVNplqvAK1pLhnKdUGf3W/preview",
+        "cast": {
+            "hero": "Robert Downey Jr, Chris Hemsworth",
+            "heroine": "Scarlett Johnson",
+            "director": "Anthony Russo, Joe Russo"
+        },
+        "genre": "Action, Sci-fi",
+        "category": "Telugu Dubbed"
+    },
+    {
+        "title": "The Substance",
+        "poster": "https://acrn.com/wp-content/uploads/2024/10/the_substance-265285928-large.jpg",
+        "hoverPoster": "https://gruesomemagazine.com/wp-content/uploads/sites/6/2024/09/Thesubstancepic.jpg",
+        "link": "https://drive.google.com/file/d/12AUKFw0UP6ZonbjXznW50ewGTawtKUZ5/preview",
+        "cast": {
+            "hero": "",
+            "heroine": "Demi Moore",
+            "director": "Coralie Fargeat"
+        },
+        "genre": "Horror, Sci-fi",
+        "category": "Telugu Dubbed"
+    },
+    {
         "title": "Devara: Part 1",
         "poster": "https://m.media-amazon.com/images/M/MV5BMzUwZTM1ZDEtZGViOC00YmUxLWEwNWQtNGIyMzE2NWZkYzUyXkEyXkFqcGc@.V1_FMjpg_UX1000.jpg",
         "hoverPoster": "https://english.mathrubhumi.com/image/contentid/policy:1.9637641:1727442775/Devara.jpg?$p=5d3fa14&f=16x10&w=852&q=0.8",
@@ -486,30 +549,6 @@
             "director": "Dhanush"
         },
         "genre": "Drama , Action"
-    },
-    {
-        "title": "Zebra",
-        "poster": "https://pics.filmaffinity.com/Zebra-963549344-mmed.jpg",
-        "hoverPoster": "https://www.tv5news.in/h-upload/2024/09/17/1359608-.webp",
-        "link": "https://drive.google.com/file/d/1gzHDdhW7ZNHKVZmo5Z13mQ_K9GXNGx94/view?usp=sharing",
-        "cast": {
-            "hero": "Satyadev",
-            "heroine": "",
-            "director": "Eashvar Karthic"
-        },
-        "genre": " Thriller,Drama"
-    },
-    {
-        "title": "Magadheera",
-        "poster": "https://static.toiimg.com/photo/61318577.cms",
-        "hoverPoster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhE_CYNP5AnHErUjVlderSWyV6De56jal4trKu6pMqukMzbEfUM4h5T0Ev08lJASV76QmS3DT-N9zQl6BaL0YYQFvwtE7wanaU35BHu5RM_7HkV1jPnw_bZu1RY-UiqaVogGRFMe_SRiZ2B/s1600/Magadheera-Latest-Wallpapers-5.jpg",
-        "link": "https://drive.google.com/file/d/1wCXnUv0bZLS4w84oBOOQkyboz2CxwbVj/preview",
-        "cast": {
-            "hero": "Ram Charan",
-            "heroine": "Kajal Aggarwal",
-            "director": "S. S. Rajamouli"
-        },
-        "genre": "Fantasy  , Action"
     },
     {
         "title": "Aavesham",
@@ -608,8 +647,20 @@
         "genre": "Drama, Action"
     },
     {
+        "title": "Srimanthudu",
+        "poster": "https://m.media-amazon.com/images/M/MV5BN2RiZmQ0ZDItY2YzNi00YThjLTgyYjQtNDM2ZDYzNTJmZWI2XkEyXkFqcGc@.V1.jpg",
+        "hoverPoster": "https://boxofficecollection.in/wp-content/uploads/2015/08/srimanthudu-telugu-movie-poster-1.jpg",
+        "link": "https://drive.google.com/file/d/1729SyeYZujofbftev23NYEVsn5cSTXLZ/preview",
+        "cast": {
+            "hero": "Mahesh Babu",
+            "heroine": "sruthi Haasan",
+            "director": "koratala siva"
+        },
+        "genre": "Drama, Action"
+    },
+    {
         "title": "Geetha Govindam",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMWI4MGIzNWEtY2ZkZS00MzZmLWE5N2YtNWIwZDdmMmE0MDdiXkEyXkFqcGc@._V1_.jpg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMWI4MGIzNWEtY2ZkZS00MzZmLWE5N2YtNWIwZDdmMmE0MDdiXkEyXkFqcGc@.V1.jpg",
         "hoverPoster": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-0-7463/list/1170x658withlogo66ea819130b54287a432d0e8676f5f89.jpg",
         "link": "https://drive.google.com/file/d/1pMo66bEORAVcukBTEmtWgOR3TJmxueuX/preview",
         "cast": {
@@ -618,5 +669,78 @@
             "director": "Parasuram"
         },
         "genre": "Romance,Comedy"
+    },
+    {
+        "title": "Lucky Baskhar",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjEzN2ZjYjUtZTI3NC00MzMyLWJiNDAtMDBiZGEzNTBiY2RkXkEyXkFqcGc@.V1.jpg",
+        "hoverPoster": "https://www.bizzbuzz.news/h-upload/2024/11/14/1943306-lucky-bhaskar-censor-done-positive-inside-buzz-ahead-of-release-2.webp",
+        "link": "https://drive.google.com/file/d/1qR5HfFEKT5voATQE_6g-GJ_TdHYEXnzG/preview",
+        "cast": {
+            "hero": "Dulquer Salmaan",
+            "heroine": "Meenakshi Chaudhary",
+            "director": "Venky Atluri"
+        },
+        "genre": "Drama, Thriller, Mystery"
+    },
+    {
+        "title": "Mathu Vadalara",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWI1YzYyNzktM2UyZS00YzZlLTlmOTYtNTljOGM4NjI4MjBjXkEyXkFqcGc@.V1_FMjpg_UX1000.jpg",
+        "hoverPoster": "https://assets-in.bmscdn.com/discovery-catalog/events/et00121183-zkbvfnqdve-landscape.jpg",
+        "link": "https://drive.google.com/file/d/1Em1HCZeV4TS6LIUfpXAzRb-xIH82TGLq/preview",
+        "cast": {
+            "hero": "Sri Simha,Satya",
+            "heroine": "",
+            "director": "Ritesh Rana"
+        },
+        "genre": "Thriller,Comedy"
+    },
+    {
+        "title": "Mathu Vadalara 2",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTU4ZWRlYTUtNGY0Yy00NDNjLThlNzQtY2M1NDNiOWM5MWJkXkEyXkFqcGc@.V1_FMjpg_UX1000.jpg",
+        "hoverPoster": "https://pbs.twimg.com/media/GfZh03XaoAABwki?format=jpg&name=small",
+        "link": "https://drive.google.com/file/d/1OFGCcz4R_HMjGxfMSEFw4a1bzcyAxDGY/preview",
+        "cast": {
+            "hero": "Sri Simha Koduri, Satya",
+            "heroine": "Faria Abdullah",
+            "director": "Ritesh Rana"
+        },
+        "genre": "Drama, Thriller, Comedy"
+    },
+    {
+        "title": "Satyam Sundaram",
+        "poster": "https://www.cinejosh.com/reviewsimg/big/satyam-sundaram-review_b_2809241252.jpg",
+        "hoverPoster": "https://www.telugubulletin.com/wp-content/uploads/2024/09/Satyam-Sundram-Review.jpg",
+        "link": "https://drive.google.com/file/d/1f7v014Yzxu99OjTDvyJ3yRJWYxogPyD7/preview",
+        "cast": {
+            "hero": "Karthi, Arvind Swamy",
+            "heroine": "Sri Divya",
+            "director": "C. Prem Kumar"
+        },
+        "genre": "Family, Drama"
+    },
+    {
+        "title": "Vikramarkudu",
+        "poster": "https://vintagestore.in/cdn/shop/files/IMG_E8660_629d05db-7a86-461f-b570-bb3c01dc11b1_1024x1024@2x.jpg?v=1717186039",
+        "hoverPoster": "https://www.idlebrain.com/images2/wp-14vikramarkudu1024.jpg",
+        "link": "https://drive.google.com/file/d/1n2GqLGkTkLdMokFRmsF9QvWFIIPY4ou8/preview",
+        "cast": {
+            "hero": "Ravi Teja",
+            "heroine": "Anushka Shetty",
+            "director": "S. S. Rajamouli"
+        },
+        "genre": " Action,Comedy "
+    },
+    {
+        "title": "Saripodhaa Sanivaaram",
+        "poster": "https://preview.redd.it/saripodhaa-sanivaaram-2024-review-discussion-thread-v0-bq0vdfja2hid1.jpg?width=3072&format=pjpg&auto=webp&s=93076420df465df600520aaddb3a3a1f25702982",
+        "hoverPoster": "https://www.tv5news.in/h-upload/2024/08/29/1345340-nani.webp",
+        "link": "https://drive.google.com/file/d/1L2uLm3FzYPSpfW3aESI_O0wHKA3LNHT6/preview",
+        "cast": {
+            "hero": "Nani,SJ Surya",
+            "heroine": "Priyanka Mohan",
+            "director": "Vivek Athreya"
+        },
+        "genre": " Action,Thriller"
     }
+    
 ]

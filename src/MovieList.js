@@ -4,6 +4,7 @@ import "./App.css";
 
 const MovieList = () => {
   const [movies, setMovies] = useState([]);
+  const [series, setSeries] = useState([]);
   const [searchQuery, setSearchQuery] = useState("");
   const navigate = useNavigate();
 
@@ -13,29 +14,57 @@ const MovieList = () => {
       .then((response) => response.json())
       .then((data) => setMovies(data))
       .catch((error) => console.error("Error fetching movies:", error));
+
+    fetch("/series.json")
+      .then((response) => response.json())
+      .then((data) => setSeries(data))
+      .catch((error) => console.error("Error fetching series:", error));
   }, []);
 
-  const filteredMovies = movies.filter(
-    (movie) =>
-      movie.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
-      movie.genre.toLowerCase().includes(searchQuery.toLowerCase()) ||
-      Object.values(movie.cast)
-        .join(" ")
-        .toLowerCase()
-        .includes(searchQuery.toLowerCase())
-  );
+  const filterContent = (items) => {
+    return items.filter((item) => {
+      // Check basic details
+      const matchesBasicDetails =
+        item.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
+        item.genre.toLowerCase().includes(searchQuery.toLowerCase()) ||
+        Object.values(item.cast)
+          .join(" ")
+          .toLowerCase()
+          .includes(searchQuery.toLowerCase());
+
+      // Check episode cast for series
+      const matchesEpisodeCast =
+        item.seasons?.some((season) =>
+          season.episodes?.some((episode) =>
+            Object.values(episode.cast || {})
+              .join(" ")
+              .toLowerCase()
+              .includes(searchQuery.toLowerCase())
+          )
+        ) || false;
+
+      return matchesBasicDetails || matchesEpisodeCast;
+    });
+  };
+
+  const filteredMovies = filterContent(movies);
+  const filteredSeries = filterContent(series);
 
   const handleMovieClick = (index) => {
-    navigate(`/movie/${index}`); // Use the index as the identifier
+    navigate(`/movie/${index}`);
+  };
+
+  const handleSeriesClick = (index) => {
+    navigate(`/series/${index}`);
   };
 
   return (
     <div className="movie-list-container">
-      <h1>Movie List</h1>
+      <h1>Moviez Player</h1>
       <div className="search-bar-container">
         <input
           type="text"
-          placeholder="Search movies by title, genre, or cast..."
+          placeholder="Search movies or series..."
           className="search-bar"
           value={searchQuery}
           onChange={(e) => setSearchQuery(e.target.value)}
@@ -44,9 +73,9 @@ const MovieList = () => {
       <div className="movies-grid">
         {filteredMovies.map((movie, index) => (
           <div
-            key={index}
+            key={`movie-${index}`}
             className="movie-card-container"
-            onClick={() => handleMovieClick(index)} // Pass the index
+            onClick={() => handleMovieClick(index)}
           >
             <div className="movie-thumbnail-container">
               <img
@@ -71,6 +100,37 @@ const MovieList = () => {
               </div>
             </div>
             <div className="movie-name">{movie.title}</div>
+          </div>
+        ))}
+        {filteredSeries.map((series, index) => (
+          <div
+            key={`series-${index}`}
+            className="movie-card-container"
+            onClick={() => handleSeriesClick(index)}
+          >
+            <div className="movie-thumbnail-container">
+              <img
+                src={series.poster}
+                alt={series.title}
+                className="movie-thumbnail"
+              />
+              <div className="hover-content">
+                <img
+                  src={series.hoverPoster}
+                  alt={`${series.title} Hover`}
+                  className="hover-image"
+                />
+                <div className="movie-description">
+                  <p>
+                    <strong>{series.title}</strong>
+                  </p>
+                  <p>{series.genre}</p>
+                  <p>Hero: {series.cast.hero}</p>
+                  <p>Heroine: {series.cast.heroine}</p>
+                </div>
+              </div>
+            </div>
+            <div className="movie-name">{series.title}</div>
           </div>
         ))}
       </div>
