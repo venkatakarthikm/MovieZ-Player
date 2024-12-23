@@ -708,7 +708,7 @@
     },
     {
         "title": "Satyam Sundaram",
-        "poster": "https://www.cinejosh.com/reviewsimg/big/satyam-sundaram-review_b_2809241252.jpg",
+        "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/sathyam-sundaram-et00413111-1727086916.jpg",
         "hoverPoster": "https://www.telugubulletin.com/wp-content/uploads/2024/09/Satyam-Sundram-Review.jpg",
         "link": "https://drive.google.com/file/d/1f7v014Yzxu99OjTDvyJ3yRJWYxogPyD7/preview",
         "cast": {
@@ -741,6 +741,122 @@
             "director": "Vivek Athreya"
         },
         "genre": " Action,Thriller"
+    },
+    {
+        "title": "Kill",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjI1ZjM3NjUtYTc1Ni00ODJmLWI5YjQtMWZiZTAyNTFiZGY1XkEyXkFqcGc@.V1_FMjpg_UX1000.jpg",
+        "hoverPoster": "https://deadline.com/wp-content/uploads/2024/07/Kill_2000x3000_legal_V2_2802550150-e1719832053921.jpg",
+        "link": "https://iplayerhls.com/e/n4t47krad4is",
+        "cast": {
+            "hero": "Raghav Juyal",
+            "heroine": "Tanya Maniktala",
+            "director": "Nikhil Nagesh Bhat"
+        },
+        "genre": "Thriller , Action",
+         "category": "Hindi Version"
+    },
+    {
+        "title": "Spider-Man: No Way Home",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmFiZGZjMmEtMTA0Ni00MzA2LTljMTYtZGI2MGJmZWYzZTQ2XkEyXkFqcGc@.V1.jpg",
+        "hoverPoster": "https://wallpapers.com/images/featured/spider-man-no-way-home-pictures-l3ztimmzaeeqfgir.jpg",
+        "link": "https://drive.google.com/file/d/1QurD9Fm0wlVsFi64wTlfv3xERMz1qt3a/preview",
+        "cast": {
+            "hero": "Tom Holland",
+            "heroine": "Zendaya",
+            "director": "Jon Watts"
+        },
+        "genre": "Comedy",
+         "category": "Telugu Dubbed"
+    },
+    {
+        "title": "Spider-Man: Far From Home",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzNhNTE0NWQtN2E1Ny00NjcwLTg1YTctMGY1NmMwODJmY2NmXkEyXkFqcGc@._V1_.jpg",
+        "hoverPoster": "https://wallpapers.com/images/hd/spider-man-far-from-home-2019-with-webs-20kn64auos7fto65.jpg",
+        "link": "https://drive.google.com/file/d/1569dJEvFo8mCKevswXOJsW4UlqwKY1EP/preview",
+        "cast": {
+            "hero": "Tom Holland",
+            "heroine": "Zendaya",
+            "director": "Jon Watts"
+        },
+        "genre": "Comedy",
+         "category": "Telugu Dubbed"
+    },
+    {
+        "title": "Deadpool 1",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Deadpool_%282016_poster%29.png/220px-Deadpool_%282016_poster%29.png",
+        "hoverPoster": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://www.nerdevil.it/wp-content/uploads/2016/02/deadpool-rece-header-1.jpg",
+        "link": "https://iplayerhls.com/e/hkq2u7z83tef",
+        "cast": {
+            "hero": "Ryan Reynolds",
+            "heroine": "Morena Baccarin",
+            "director": "Tim Miller"
+        },
+        "genre": "Comedy,Action",
+         "category": "Telugu Dubbed"
+    },
+    {
+        "title": "Deadpool 2",
+        "poster": "https://www.ecured.cu/images/thumb/1/1e/Deadpool-2.jpg/1200px-Deadpool-2.jpg",
+        "hoverPoster": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/deadpool-2-cable-domino.jpg",
+        "link": "https://iplayerhls.com/e/g85s1hwj66rz",
+        "cast": {
+            "hero": "Ryan Reynolds",
+            "heroine": "Morena Baccarin",
+            "director": "David Leitch"
+        },
+        "genre": "Comedy,Action",
+         "category": "Telugu Dubbed"
+    },
+    {
+        "title": "Deadpool & Wolverine",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTk5ODY0MmQtMzA3Ni00NGY1LThiYzItZThiNjFiNDM4MTM3XkEyXkFqcGc@._V1_.jpg",
+        "hoverPoster": "https://i.ytimg.com/vi/j8kJOs3oTzg/maxresdefault.jpg",
+        "link": "https://iplayerhls.com/e/f3ca4p15p1zx",
+        "cast": {
+            "hero": "Ryan Reynolds,Hugh Jackman",
+            "heroine": "",
+            "director": "Morena Baccarin"
+        },
+        "genre": "Comedy ,Action",
+         "category": "Telugu Dubbed"
+    },
+    {
+        "title": "MAD",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTBiNDVkOWQtMGZhMC00MDA0LWI4ZjUtMWE3YjRmMDc3NzBjXkEyXkFqcGc@.V1.jpg",
+        "hoverPoster": "https://i.ytimg.com/vi/bQRCyrNmhj4/maxresdefault.jpg",
+        "link": "https://drive.google.com/file/d/1KbnTFal6vWcn0FW6IBLITylrDp9Wmxvo/preview",
+        "cast": {
+            "hero": "Sangeeth Shobhan",
+            "heroine": "Sri Gouri Priya ",
+            "director": "Kalyan Shankar"
+        },
+        "genre": "Comedy"
+    },
+    {
+        "title": "Train to Busan",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTkwOTQ4OTg0OV5BMl5BanBnXkFtZTgwMzQyOTM0OTE@._V1_.jpg",
+        "hoverPoster": "https://i.ytimg.com/vi/r7z6Xr85awc/hqdefault.jpg",
+        "link": "https://iplayerhls.com/e/o8qvkjuv1ut5",
+        "cast": {
+            "hero": "Gong Yoo,Ma Dong-seok",
+            "heroine": "",
+            "director": "Yeon Sang-ho"
+        },
+        "genre": "Horror,Action",
+         "category": "Telugu Dubbed"
+    },
+    {
+        "title": "Vikram",
+        "poster": "https://www.ticketly.eu/Photos/Event/Event_28034.jpg",
+        "hoverPoster": "https://www.koimoi.com/wp-content/new-galleries/2022/06/vikram-movie-review-out-02.jpg",
+        "link": "https://drive.google.com/file/d/1RI1tTPo5T3iXmo04WW0jlQsYiTTf_GHp/preview",
+        "cast": {
+            "hero": "Kamal Haasan",
+            "heroine": "",
+            "director": "Lokesh Kanagaraj"
+        },
+        "genre": "Thriller ,Action",
+         "category": "Telugu Dubbed"
     }
     
 ]
