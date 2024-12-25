@@ -965,5 +965,53 @@
             "director": "Puri jagganath"
         },
         "genre": "Action,Thriller"
+    },
+    {
+        "title": "Dasara",
+        "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/dasara-et00316318-1679638362.jpg",
+        "hoverPoster": "https://www.koimoi.com/wp-content/new-galleries/2023/03/dasara-movie-review-002.jpg",
+        "link": "https://drive.google.com/file/d/18iXX6Zu9pD56klDkNQpNFKi9bk1r1L7P/preview",
+        "cast": {
+            "hero": "Nani",
+            "heroine": "Keerthy Suresh",
+            "director": "Srikanth Odela"
+        },
+        "genre": "Action,Thriller"
+    },
+    {
+        "title": "Miss Shetty Mr Polishetty",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZWYyOWMzYjYtZjIzMi00MmI1LWFlMjItYTRhZDZjMzEzNDljXkEyXkFqcGc@.V1.jpg",
+        "hoverPoster": "https://assets-in.bmscdn.com/discovery-catalog/events/et00353997-hcpqmmsbzk-landscape.jpg",
+        "link": "https://drive.google.com/file/d/1Ix2m3dd1u0o-Qd3V7S_I6dakP9ILfUH4/preview",
+        "cast": {
+            "hero": "Naveen Polishetty",
+            "heroine": "Anushka Shetty",
+            "director": "Mahesh Babu"
+        },
+        "genre": "Comedy,Romance"
+    },
+    {
+        "title": "The Wild Robot",
+        "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/261/2024/08/15103059/wTnV3PCVW5O92JMrFvvrRcV39RU-scaled.jpg",
+        "hoverPoster": "https://m.media-amazon.com/images/S/pv-target-images/b2031e02cd4e3c2a73d2f7990fe27a2c68ee206772632476b23e544253392503.jpg",
+        "link": "https://iplayerhls.com/e/7wjfypvfbbet",
+        "cast": {
+            "hero": "",
+            "heroine": "",
+            "director": "Chris Sanders"
+        },
+        "genre": "Family,Adventure"
+    },
+    {
+        "title": "Bheeshma",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmE3YTg0NGYtOGEzNS00MzE5LTkyZDktYWM3ZmM0Y2Q2N2Q2XkEyXkFqcGc@._V1_.jpg",
+        "hoverPoster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8QTsNs2D72JyNT2maEChvWjvlClaiOZJwsov7EiSdyHgPv3hEUnxfk1fEImvYQm2t_sFzD29puxpbNny5208AbH_7HhNpNC_SghyphenhyphenJS60fn4kTH7bI0p1oMZ3pB5AIA8cn5yinHhxEMS5S/s1600/bheeshma-review.jpg",
+        "link": "https://drive.google.com/file/d/1mY5m59ttRCoPGkT0cp1NxkJu-8gGk7Sx/preview",
+        "cast": {
+            "hero": "Nithiin",
+            "heroine": "Rashmika Mandanna",
+            "director": "Venky Kudumula"
+        },
+        "genre": "Comedy,Romance"
     }
 ]
