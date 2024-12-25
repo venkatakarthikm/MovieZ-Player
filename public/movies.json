@@ -857,6 +857,113 @@
         },
         "genre": "Thriller ,Action",
          "category": "Telugu Dubbed"
+    },
+    {
+        "title": "Om Bheem Bush",
+        "poster": "https://www.cinemamanishi.com/wp-content/uploads/2024/03/om-bheem-bush-2.jpg",
+        "hoverPoster": "https://assets-in.bmscdn.com/discovery-catalog/events/et00389163-anlkzvjuuw-landscape.jpg",
+        "link": "https://drive.google.com/file/d/1ssz-AfUt3vBkCKozDykFgsvZ7VJS7y7N/preview",
+        "cast": {
+            "hero": "Sree Vishnu",
+            "heroine": "",
+            "director": "Sree Harsha Konuganti"
+        },
+        "genre": "Comedy"
+    },
+    {
+        "title": "Keedaa Cola",
+        "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/keedaa-cola-et00369553-1699610496.jpg",
+        "hoverPoster": "https://images.hindustantimes.com/telugu/img/2023/12/28/1600x900/keeda_cola_1703759893582_1703759900638.jpg",
+        "link": "https://drive.google.com/file/d/1JGSUHAm-JoYsHU_g292erWXeHIU4JtnT/preview",
+        "cast": {
+            "hero": "Chaitanya Rao Madadi,Tharun Bhascker",
+            "heroine": "",
+            "director": "Tharun Bhascker"
+        },
+        "genre": "Comedy,Crime"
+    },
+    {
+        "title": "Premalu",
+        "poster": "https://english.idreampost.com/wp-content/uploads/2024/03/Premalu-Poste-image.jpg",
+        "hoverPoster": "https://cdn.gulte.com/wp-content/uploads/2024/03/premalu-1.jpg",
+        "link": "https://drive.google.com/file/d/1t1lHWN2-Xdi39CBSIMs8S-qpE5DM3ED1/preview",
+        "cast": {
+            "hero": "Naslen K. Gafoor",
+            "heroine": "Mamitha Baiju",
+            "director": "Girish A. D"
+        },
+        "genre": "Comedy,Romance"
+    },
+    {
+        "title": "Don",
+        "poster": "https://images.filmibeat.com/img/popcorn/movie_posters/don-20211110211348-19865.jpg",
+        "hoverPoster": "https://static.moviecrow.com/marquee/don-completes-25-days-grosses-rs-125-cr-at-the-box-office/199253_thumb_665.jpg",
+        "link": "https://drive.google.com/file/d/1PT4jkP3QBIt0ME24Vv-MDPM41hp-RmWt/preview",
+        "cast": {
+            "hero": "Sivakarthikeyan",
+            "heroine": "Priyanka Mohan",
+            "director": "Cibi Chakaravarthi"
+        },
+        "genre": "Comedy,Action"
+    },
+    {
+        "title": "Swag",
+        "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/swag-et00401912-1727774376.jpg",
+        "hoverPoster": "https://assets-in.bmscdn.com/discovery-catalog/events/et00401912-wzrbktnwfh-landscape.jpg",
+        "link": "https://drive.google.com/file/d/1nNwUMzY7gLd-pclZD2XCuD_1H_4FbpNS/preview",
+        "cast": {
+            "hero": "Sree Vishnu",
+            "heroine": "ritu verma",
+            "director": "Cibi Chakaravarthi"
+        },
+        "genre": "Comedy,Thriller"
+    },
+    {
+        "title": "Maa Nanna Super Hero",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzYxZjY5NmYtOTc1NC00ZmViLTlkMjEtNDM0OGU4YTg2MWRiXkEyXkFqcGc@.V1.jpg",
+        "hoverPoster": "https://i.ytimg.com/vi/bw0eox2JlpE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDIbZKBXlr89Q6m4gR_u7I38z9PiQ",
+        "link": "https://drive.google.com/file/d/1-smqQ696oIJ3SdavJyXfrcIz5dnYMuf5/preview",
+        "cast": {
+            "hero": "Sudheer Babu",
+            "heroine": "",
+            "director": "Abhilash Reddy"
+        },
+        "genre": "Drama ,Family"
+    },
+    {
+        "title": "Harom Hara",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZGViMTZiMzUtZTNlMi00ZDc3LTkzNTYtZGIzOTk4MDczODMyXkEyXkFqcGc@.V1_FMjpg_UX1000.jpg",
+        "hoverPoster": "https://m.media-amazon.com/images/S/pv-target-images/149eed1eb53eeec694bd4a47bcb0d9e0bb0b3ab063b6666ec9c300aae104ff65.SX1080_FMjpg.jpg",
+        "link": "https://drive.google.com/file/d/1GhWp6wXHysnlgJk1MqhhFSxAg7QTsUk8/preview",
+        "cast": {
+            "hero": "Sudheer Babu",
+            "heroine": "Malvika Sharma",
+            "director": "Gnanasagar Dwaraka"
+        },
+        "genre": "Action,Drama"
+    },
+    {
+        "title": "ARM",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTdiZjI3OGYtZTk1YS00Mjk5LTlmYzktODQ4NDQyM2JjNmI3XkEyXkFqcGc@.V1.jpg",
+        "hoverPoster": "https://preview.redd.it/is-arm-ajayante-randam-moshanam-worth-it-3d-normal-cinema-v0-xho9axhk9nod1.jpeg?auto=webp&s=ded1e4fc42263602e7a7eca3d1130d59566f2c25",
+        "link": "https://drive.google.com/file/d/18OQ2yqfboXAbGt5nu6v9_Sz3AUdjE8Im/preview",
+        "cast": {
+            "hero": "Tovino Thomas",
+            "heroine": "Krithi Shetty",
+            "director": "Jithin Laal"
+        },
+        "genre": "Adventure,Drama"
+    },
+    {
+        "title": "Temper",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYWMzNTc5YjItNDEyOS00N2Y3LTkxZGYtNGNjNDY1M2UwMGQ2XkEyXkFqcGc@.V1.jpg",
+        "hoverPoster": "https://sund-images.sunnxt.com/7729/640x360_Temper_7729_64a62ea5-d8b1-490b-bf7c-5caa8e654927.jpg",
+        "link": "https://drive.google.com/file/d/1SIsKA9RzaqQ9TezIMyO29Sb-6n3Ir3-x/preview",
+        "cast": {
+            "hero": "jr NTR",
+            "heroine": "Kajal Agarwal",
+            "director": "Puri jagganath"
+        },
+        "genre": "Action,Thriller"
     }
-    
 ]
