@@ -638,3 +638,34 @@ iframe {
   font-weight: bold;
   color: #f39c12;
 }
+
+.marquee-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #121212k;
+  padding: 10px;
+  position: relative;
+  color: #f39c12;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.marquee-text {
+  flex-grow: 1;
+}
+
+.close-marquee {
+  background: none;
+  border: none;
+  color: #f39c12;
+  font-size: 18px;
+  cursor: pointer;
+  margin-left: 10px;
+  animation: fadeIn 1s ease-in-out;
+}
+
+.close-marquee:hover {
+  color: red;
+  transform: scale(1.2);
+}

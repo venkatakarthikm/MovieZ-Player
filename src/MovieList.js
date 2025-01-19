@@ -6,6 +6,7 @@ const MovieList = () => {
   const [movies, setMovies] = useState([]);
   const [series, setSeries] = useState([]);
   const [searchQuery, setSearchQuery] = useState("");
+  const [showMarquee, setShowMarquee] = useState(true);
   const navigate = useNavigate();
 
   // Fetch movies from the JSON file
@@ -60,6 +61,30 @@ const MovieList = () => {
 
   return (
     <div className="movie-list-container">
+      {showMarquee && (
+        <div className="marquee-container">
+          <marquee
+            behavior="scroll"
+            direction="left"
+            scrollamount="8"
+            className="marquee-text"
+          >
+            Disclaimer: The content hosted here, including movies and series, is
+            for educational and development purposes only. This platform is
+            non-commercial and not for profit. For copyright movie or series
+            removal, mail to{" "}
+            <a href="mailto:moviezvibe01@gmail.com" className="email-link">
+              moviezvibe01@gmail.com
+            </a>.
+          </marquee>
+          <button
+            className="close-marquee"
+            onClick={() => setShowMarquee(false)}
+          >
+            ✖
+          </button>
+        </div>
+      )}
       <h1>Moviez Player</h1>
       <div className="search-bar-container">
         <input

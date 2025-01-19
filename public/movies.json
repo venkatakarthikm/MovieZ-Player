@@ -1013,5 +1013,17 @@
             "director": "Venky Kudumula"
         },
         "genre": "Comedy,Romance"
+    },
+    {
+        "title": "Viduthalai Part 2",
+        "poster": "https://assetscdn1.paytm.com/images/cinema/VIDUTHALAI-2---Gallery-20d06d50-afb0-11ef-921a-6b45cf008ba4.jpg",
+        "hoverPoster": "https://lk-aps.bmscdn.com/events/mobile/viduthalai-part-2-et00005532-22-10-2024-02-28-17.jpg",
+        "link": "https://drive.google.com/file/d/1bsFfyjWCoDrj2JNxmzrQ1DX4yc7DgKA8/preview",
+        "cast": {
+            "hero": "Vijay Sethupathi",
+            "heroine": "Manju Warrier",
+            "director": "Vetrimaaran"
+        },
+        "genre": "Action,Drama"
     }
 ]
