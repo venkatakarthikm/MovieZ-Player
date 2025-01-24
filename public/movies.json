@@ -1025,5 +1025,17 @@
             "director": "Vetrimaaran"
         },
         "genre": "Action,Drama"
+    },
+    {
+        "title": "Sookshmadarshini",
+        "poster": "https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FrOZt5FVZC51keFRRUSzWGE5y1Rt.jpg",
+        "hoverPoster": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8423/1736519778423-h",
+        "link": "https://drive.google.com/file/d/1LHj80P_ABQBQ4xHbrxTkJ4NsR3-eElIe/preview",
+        "cast": {
+            "hero": "Basil Joseph",
+            "heroine": "Nazriya",
+            "director": "M. C. Jithin"
+        },
+        "genre": "comedy,mystery"
     }
 ]
