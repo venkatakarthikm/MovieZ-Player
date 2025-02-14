@@ -1,15 +1,15 @@
 [
     {
         "title": "Athadu",
-        "poster": "https://m.media-amazon.com/images/I/81TM1zCXjFL.AC_UF1000,1000_QL80.jpg",
-        "hoverPoster": "https://image.ntnews.com/wp-content/uploads/2022/08/athadu-1_V_jpg--442x260-4g.webp?sw=412&dsz=442x260&iw=400&p=false&r=2.625",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/e/ee/Athadu_Poster.jpg",
+        "hoverPoster": "https://m.media-amazon.com/images/S/pv-target-images/8b34e2e41da6e9ed4190c3ff0a44e94ec2728d27cc2af322ef787a7ebda0fea8.jpg",
         "link": "https://drive.google.com/file/d/1EX5fup4Jj8fOBlexMOHrLixvSZeHqW5V/preview",
         "cast": { "hero": "Mahesh Babu", "heroine": "Thrisha", "director": "Trivikram" },
         "genre": "Action"
       },
       {
         "title": "Salaar",
-        "poster": "https://m.media-amazon.com/images/M/MV5BYjc4ZmJkYmMtZDBjZi00MTYyLWIxNDctMTU2ODI3OWRiNTc5XkEyXkFqcGc@.V1.jpg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjc4ZmJkYmMtZDBjZi00MTYyLWIxNDctMTU2ODI3OWRiNTc5XkEyXkFqcGc@._V1_.jpg",
         "hoverPoster": "https://images.mid-day.com/images/images/2023/oct/salaar-prithvirajlook_d.jpg",
         "link": "https://drive.google.com/file/d/1TBa7hQp_6GknwX9GnYTEdDnBLk8gb6oA/preview",
         "cast": { "hero": "Prabhas", "heroine": "Shruti Haasan", "director": "Prashanth Neel" },
@@ -33,8 +33,8 @@
       },
       {
         "title": "SVSC",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMWJiZDVkODktZDM2ZS00NzE4LTlhOTEtYzRkYmYyODY4ZmQ2XkEyXkFqcGc@.V1.jpg",
-        "hoverPoster": "https://m.media-amazon.com/images/S/pv-target-images/d768148fc8d705135df70d1288031d34cdee462811f955d135f1749579c0a513.SX1080_FMjpg.jpg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMWJiZDVkODktZDM2ZS00NzE4LTlhOTEtYzRkYmYyODY4ZmQ2XkEyXkFqcGc@._V1_.jpg",
+        "hoverPoster": "https://m.media-amazon.com/images/S/pv-target-images/d768148fc8d705135df70d1288031d34cdee462811f955d135f1749579c0a513._SX1080_FMjpg_.jpg",
         "link": "https://drive.google.com/file/d/1wV8tvJv3F_ryZ9ALERzWGbL9DXLFb5-i/preview",
         "cast": { "hero": "Mahesh Babu", "heroine": "Samantha, Anjali", "director": "Venkatesh || Sreekanth Addala" },
         "genre": "Drama"
@@ -49,7 +49,7 @@
       },
       {
         "title": "Pokiri",
-        "poster": "https://m.media-amazon.com/images/M/MV5BYThhYzg2NjQtY2Q2NC00NTlmLWFmOGUtZTUwNzRiZTg1OGYxXkEyXkFqcGc@.V1.jpg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYThhYzg2NjQtY2Q2NC00NTlmLWFmOGUtZTUwNzRiZTg1OGYxXkEyXkFqcGc@._V1_.jpg",
         "hoverPoster": "https://www.newstap.in/h-upload/2022/08/07/1400288-superstar-mahesh-babu.webp",
         "link": "https://drive.google.com/file/d/1pXBClMzij6OGtVM1XZf3wv7CNUGnENkt/preview",
         "cast": {
@@ -86,7 +86,7 @@
     },
       {
         "title": "The Dark Knight",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@.V1.jpg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
         "hoverPoster": "https://rukminim2.flixcart.com/image/850/1000/kzzw5u80/poster/o/r/b/medium-joker-the-dark-knight-movie-on-fine-art-paper-hd-quality-original-imagbvmycjvpv5ph.jpeg?q=90&crop=false",
         "link": "https://iplayerhls.com/e/tmuvf2towdaw",
         "cast": { "hero": "Christian Bale", "heroine": "Maggie Gyllenhaal", "director": "Christopher Nolan" },
@@ -95,7 +95,7 @@
       },
       {
         "title": "The Dark Knight Rises",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@.V1_FMjpg_UX1000.jpg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_FMjpg_UX1000_.jpg",
         "hoverPoster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/6ce5965d-cdb2-4f9c-b22b-ae7a091d95a8/8999b17e-4b13-4d1e-a9c0-3cbd50d803a7?host=wbd-images.prod-vod.h264.io&partner=beamcom",
         "link": "https://iplayerhls.com/e/1fqp2kq52wcn",
         "cast": {
@@ -108,7 +108,7 @@
     },
     {
         "title": "Avatar The way of water",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNmQxNjZlZTctMWJiMC00NGMxLWJjNTctNTFiNjA1Njk3ZDQ5XkEyXkFqcGc@.V1_FMjpg_UX1000.jpg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNmQxNjZlZTctMWJiMC00NGMxLWJjNTctNTFiNjA1Njk3ZDQ5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
         "hoverPoster": "https://m.media-amazon.com/images/S/pv-target-images/189420c3dbf235953dbb719a513f845fe8422135b1008eadc67b8356ee4d2751.jpg",
         "link": "https://drive.google.com/file/d/11b5AfwbJJ-ihs0sFsreBLhqzTIOYtVBY/preview",
         "cast": {
@@ -131,7 +131,8 @@
         },
         "genre": "Family, Adventure",
         "category": "Telugu Dubbed"
-    },{
+    },
+    {
         "title": "Stree 2",
         "poster": "https://m.media-amazon.com/images/M/MV5BZTEyYzVjYjEtNWYzZi00NWRhLTgyZjUtNDlkZjBiNWIxYTEwXkEyXkFqcGc@.V1.jpg",
         "hoverPoster": "https://i.ytimg.com/vi/bNalbPmLJu8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDKPkMF9dz2JQ6eiGetBjs-HgwKHA",
@@ -143,6 +144,33 @@
         },
         "genre": "Horror,Comedy",
          "category": "Hindi Version"
+    },
+    {
+        "title": "Kill",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjI1ZjM3NjUtYTc1Ni00ODJmLWI5YjQtMWZiZTAyNTFiZGY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "hoverPoster": "https://deadline.com/wp-content/uploads/2024/07/Kill_2000x3000_legal_V2_2802550150-e1719832053921.jpg",
+        "link": "https://iplayerhls.com/e/n4t47krad4is",
+        "cast": {
+            "hero": "Raghav Juyal",
+            "heroine": "Tanya Maniktala",
+            "director": "Nikhil Nagesh Bhat"
+        },
+        "genre": "Thriller , Action",
+         "category": "Hindi Version"
+    },
+    
+    {
+        "title": "Spider-Man: No Way Home",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmFiZGZjMmEtMTA0Ni00MzA2LTljMTYtZGI2MGJmZWYzZTQ2XkEyXkFqcGc@._V1_.jpg",
+        "hoverPoster": "https://wallpapers.com/images/featured/spider-man-no-way-home-pictures-l3ztimmzaeeqfgir.jpg",
+        "link": "https://drive.google.com/file/d/1QurD9Fm0wlVsFi64wTlfv3xERMz1qt3a/preview",
+        "cast": {
+            "hero": "Tom Holland",
+            "heroine": "Zendaya",
+            "director": "Jon Watts"
+        },
+        "genre": "Comedy",
+         "category": "Telugu Dubbed"
     },
 
     {
@@ -159,7 +187,7 @@
     },
     {
         "title": "Okkadu",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMTFmZTM1ODUtNzU5OC00ZDM0LTg2NGEtZjMyNzRhMDk5M2I4XkEyXkFqcGc@.V1_FMjpg_UX1000.jpg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTFmZTM1ODUtNzU5OC00ZDM0LTg2NGEtZjMyNzRhMDk5M2I4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
         "hoverPoster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq9XXGtH_qkesWrfI3pb7TqUUypE9w3OsG453-lTRx49JM-1DBVSvESnDpQVzt0dPQx5RmeKbTGrdsi4M6z62qABAQTf8ESlT8_OmVqPG_5sXViCZxogj7N8HR5EJBs-nRrVs5gSOJuOvV/s1600/mahesh-story_647_011517011356.jpg",
         "link": "https://drive.google.com/file/d/1mc2l93BETSCuNxWal7aucZsBv4Ih7yEb/preview",
         "cast": {
@@ -184,7 +212,7 @@
     {
         "title": "1 - Nenokadine",
         "poster": "https://m.media-amazon.com/images/S/pv-target-images/8a1a8002b2265386af2572cb69ddcfce7168b596d7ba4650dc016a5bfc0c4898.jpg",
-        "hoverPoster": "https://m.media-amazon.com/images/M/MV5BMTY5OTA1OTY4OV5BMl5BanBnXkFtZTgwODA1NzAwMTE@.V1.jpg",
+        "hoverPoster": "https://m.media-amazon.com/images/M/MV5BMTY5OTA1OTY4OV5BMl5BanBnXkFtZTgwODA1NzAwMTE@._V1_.jpg",
         "link": "https://drive.google.com/file/d/1iPBokKWE2S-0Ei5w5hlo0E9roF7jc2mS/preview",
         "cast": {
             "hero": "Mahesh Babu",
@@ -195,7 +223,7 @@
     },
     {
         "title": "Race Gurram",
-        "poster": "https://m.media-amazon.com/images/M/MV5BN2Q2MTA0MGQtMzM1Ni00MmIwLWJmYjMtYzIzNDIxZjU0Y2FmXkEyXkFqcGc@.V1.jpg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BN2Q2MTA0MGQtMzM1Ni00MmIwLWJmYjMtYzIzNDIxZjU0Y2FmXkEyXkFqcGc@._V1_.jpg",
         "hoverPoster": "https://telugunaa.com/wp-content/uploads/2024/08/Race-Gurram.jpg",
         "link": "https://drive.google.com/file/d/1A60MY8rRDRS027uGu2xei5Taycfl_L5N/preview",
         "cast": {
@@ -231,7 +259,7 @@
     },
     {
         "title": "RRR",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNWMwODYyMjQtMTczMi00NTQ1LWFkYjItMGJhMWRkY2E3NDAyXkEyXkFqcGc@.V1_FMjpg_UX1000.jpg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNWMwODYyMjQtMTczMi00NTQ1LWFkYjItMGJhMWRkY2E3NDAyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
         "hoverPoster": "https://images.hindustantimes.com/img/2022/04/01/1600x900/RRR-Movie-Review_1648825470847_1648825479894.jpg",
         "link": "https://drive.google.com/file/d/1M7w6R-5nm5IBSdm6R1D4itXc-J3pXFXp/preview",
         "cast": {
@@ -283,7 +311,7 @@
       },
       {
         "title": "spyder",
-        "poster": "https://m.media-amazon.com/images/M/MV5BZGQyMjU2NWEtMDJiMS00MzkxLTg4YjAtNDRkY2NkNjUyZjMxXkEyXkFqcGc@.V1.jpg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZGQyMjU2NWEtMDJiMS00MzkxLTg4YjAtNDRkY2NkNjUyZjMxXkEyXkFqcGc@._V1_.jpg",
         "hoverPoster": "https://images.indianexpress.com/2017/09/spyder-review-mahesh-babu-759.jpg",
         "link": "https://drive.google.com/file/d/1rgq4t5Eu0YMvyh-HZccB62W7KTJ8KwGK/preview",
         "cast": {
@@ -307,7 +335,7 @@
     },
     {
         "title": "Kanguva",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMTEyMzJkZjUtM2ZiOS00NzQ1LTgzZjYtYmJiMTg3ZGNlMzc0XkEyXkFqcGc@.V1.jpg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTEyMzJkZjUtM2ZiOS00NzQ1LTgzZjYtYmJiMTg3ZGNlMzc0XkEyXkFqcGc@._V1_.jpg",
         "hoverPoster": "https://images.filmibeat.com/img/2024/12/kanguva1-1733107148.jpg",
         "link": "https://drive.google.com/file/d/1WNE3juiaSkFLmG9gDhe1fScxCVvGyd6n/preview",
         "cast": {
@@ -319,7 +347,7 @@
     },
     {
         "title": "Animal",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMTlhOTI0NGMtYWZmZC00ZTBlLTg2NWMtOWJmZDFkNzQwZjA3XkEyXkFqcGc@.V1.jpg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTlhOTI0NGMtYWZmZC00ZTBlLTg2NWMtOWJmZDFkNzQwZjA3XkEyXkFqcGc@._V1_.jpg",
         "hoverPoster": "https://variety.com/wp-content/uploads/2022/12/Animal-first-look.jpg?w=1000&h=564&crop=1",
         "link": "https://drive.google.com/file/d/1ci0aK-SPW-lSMGK-RqqwV3ITW0T9gZn4/preview",
         "cast": {
@@ -391,8 +419,8 @@
     },
     {
         "title": "Dookudu",
-        "poster": "https://m.media-amazon.com/images/M/MV5BZmQ3OWVjNTAtOWRhNC00ODc5LWExZjgtN2U4MDgzNmFhMjdiXkEyXkFqcGc@.V1.jpg",
-        "hoverPoster": "https://m.media-amazon.com/images/M/MV5BZWQ2ZGQzZDgtZWQ4MC00N2RhLWE3YjEtMjRjMjE2OWE3N2QyXkEyXkFqcGc@.V1.jpg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZmQ3OWVjNTAtOWRhNC00ODc5LWExZjgtN2U4MDgzNmFhMjdiXkEyXkFqcGc@._V1_.jpg",
+        "hoverPoster": "https://m.media-amazon.com/images/M/MV5BZWQ2ZGQzZDgtZWQ4MC00N2RhLWE3YjEtMjRjMjE2OWE3N2QyXkEyXkFqcGc@._V1_.jpg",
         "link": "https://drive.google.com/file/d/1rT_e1NIO5Wz6pLN0rTqNXsVslj1AYv3b/preview",
         "cast": {
             "hero": "Mahesh Babu",
@@ -404,7 +432,7 @@
     
     {
         "title": "Julayi",
-        "poster": "https://m.media-amazon.com/images/M/MV5BZmZjZTdlODctOWJiMy00N2NlLTg4Y2YtOWYxNDZmMDZjYTg4XkEyXkFqcGc@.V1.jpg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZmZjZTdlODctOWJiMy00N2NlLTg4Y2YtOWYxNDZmMDZjYTg4XkEyXkFqcGc@._V1_.jpg",
         "hoverPoster": "https://i.ytimg.com/vi/YzmjCwPiLbk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCZ73aicpblWVC4E0xcQtQWDMaWHA",
         "link": "https://drive.google.com/file/d/104xFd2yVddlNOXFbNLLoyuPdE_0d7KIE/preview",
         "cast": {
@@ -453,7 +481,7 @@
     },
     {
         "title": "Avengers: Infinity War",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@.V1_FMjpg_UX1000.jpg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_FMjpg_UX1000_.jpg",
         "hoverPoster": "https://c4.wallpaperflare.com/wallpaper/559/80/29/movie-avengers-infinity-war-black-widow-captain-america-wallpaper-preview.jpg",
         "link": "https://drive.google.com/file/d/1teDNYB71upXoQJgP0LdAMHYGAH-UYn-V/preview",
         "cast": {
@@ -466,7 +494,7 @@
     },
     {
         "title": "Avengers: Endgame",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@.V1_FMjpg_UX1000.jpg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_FMjpg_UX1000_.jpg",
         "hoverPoster": "https://www.beerita.id/wp-content/uploads/2019/04/endgame-movieposterhd.com_.jpg",
         "link": "https://drive.google.com/file/d/1dJADuTUrWF5XVNplqvAK1pLhnKdUGf3W/preview",
         "cast": {
@@ -492,7 +520,7 @@
     },
     {
         "title": "Devara: Part 1",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMzUwZTM1ZDEtZGViOC00YmUxLWEwNWQtNGIyMzE2NWZkYzUyXkEyXkFqcGc@.V1_FMjpg_UX1000.jpg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzUwZTM1ZDEtZGViOC00YmUxLWEwNWQtNGIyMzE2NWZkYzUyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
         "hoverPoster": "https://english.mathrubhumi.com/image/contentid/policy:1.9637641:1727442775/Devara.jpg?$p=5d3fa14&f=16x10&w=852&q=0.8",
         "link": "https://drive.google.com/file/d/1t4Qq6lqAZHbwY3LmvU8Usu8DSvvAAIk2/preview",
         "cast": {
@@ -528,7 +556,7 @@
     },
     {
         "title": "Khaleja",
-        "poster": "https://m.media-amazon.com/images/M/MV5BZjg5NjVkMTQtMWNlNy00YjQ2LTlkMjktYzA0ZmY2NDg4ZDAwXkEyXkFqcGc@.V1.jpg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjg5NjVkMTQtMWNlNy00YjQ2LTlkMjktYzA0ZmY2NDg4ZDAwXkEyXkFqcGc@._V1_.jpg",
         "hoverPoster": "https://data1.ibtimes.co.in/en/full/749929/mahesh-babu.jpg",
         "link": "https://drive.google.com/file/d/17Ou4P9S2VhYEvJKzBuld6fgrf8T6Yyv1/preview",
         "cast": {
@@ -552,7 +580,7 @@
     },
     {
         "title": "Aavesham",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNzM3OTcyNDQtNjAwNi00YTg4LWIyNTEtNjMzY2E2MWY2MGU1XkEyXkFqcGc@.V1.jpg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzM3OTcyNDQtNjAwNi00YTg4LWIyNTEtNjMzY2E2MWY2MGU1XkEyXkFqcGc@._V1_.jpg",
         "hoverPoster": "https://images.indianexpress.com/2024/05/aavesham-07052024.jpg",
         "link": "https://drive.google.com/file/d/18QlvUygec_OSfXhHTHIdIdvVQ7Zh2zj1/preview",
         "cast": {
@@ -648,7 +676,7 @@
     },
     {
         "title": "Srimanthudu",
-        "poster": "https://m.media-amazon.com/images/M/MV5BN2RiZmQ0ZDItY2YzNi00YThjLTgyYjQtNDM2ZDYzNTJmZWI2XkEyXkFqcGc@.V1.jpg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BN2RiZmQ0ZDItY2YzNi00YThjLTgyYjQtNDM2ZDYzNTJmZWI2XkEyXkFqcGc@._V1_.jpg",
         "hoverPoster": "https://boxofficecollection.in/wp-content/uploads/2015/08/srimanthudu-telugu-movie-poster-1.jpg",
         "link": "https://drive.google.com/file/d/1729SyeYZujofbftev23NYEVsn5cSTXLZ/preview",
         "cast": {
@@ -672,7 +700,7 @@
     },
     {
         "title": "Lucky Baskhar",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMjEzN2ZjYjUtZTI3NC00MzMyLWJiNDAtMDBiZGEzNTBiY2RkXkEyXkFqcGc@.V1.jpg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjEzN2ZjYjUtZTI3NC00MzMyLWJiNDAtMDBiZGEzNTBiY2RkXkEyXkFqcGc@._V1_.jpg",
         "hoverPoster": "https://www.bizzbuzz.news/h-upload/2024/11/14/1943306-lucky-bhaskar-censor-done-positive-inside-buzz-ahead-of-release-2.webp",
         "link": "https://drive.google.com/file/d/1qR5HfFEKT5voATQE_6g-GJ_TdHYEXnzG/preview",
         "cast": {
@@ -696,7 +724,7 @@
     },
     {
         "title": "Mathu Vadalara 2",
-        "poster": "https://m.media-amazon.com/images/M/MV5BZTU4ZWRlYTUtNGY0Yy00NDNjLThlNzQtY2M1NDNiOWM5MWJkXkEyXkFqcGc@.V1_FMjpg_UX1000.jpg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTU4ZWRlYTUtNGY0Yy00NDNjLThlNzQtY2M1NDNiOWM5MWJkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
         "hoverPoster": "https://pbs.twimg.com/media/GfZh03XaoAABwki?format=jpg&name=small",
         "link": "https://drive.google.com/file/d/1OFGCcz4R_HMjGxfMSEFw4a1bzcyAxDGY/preview",
         "cast": {
@@ -708,7 +736,7 @@
     },
     {
         "title": "Satyam Sundaram",
-        "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/sathyam-sundaram-et00413111-1727086916.jpg",
+        "poster": "https://www.cinejosh.com/reviewsimg/big/satyam-sundaram-review_b_2809241252.jpg",
         "hoverPoster": "https://www.telugubulletin.com/wp-content/uploads/2024/09/Satyam-Sundram-Review.jpg",
         "link": "https://drive.google.com/file/d/1f7v014Yzxu99OjTDvyJ3yRJWYxogPyD7/preview",
         "cast": {
@@ -741,36 +769,11 @@
             "director": "Vivek Athreya"
         },
         "genre": " Action,Thriller"
-    },
-    {
-        "title": "Kill",
-        "poster": "https://m.media-amazon.com/images/M/MV5BZjI1ZjM3NjUtYTc1Ni00ODJmLWI5YjQtMWZiZTAyNTFiZGY1XkEyXkFqcGc@.V1_FMjpg_UX1000.jpg",
-        "hoverPoster": "https://deadline.com/wp-content/uploads/2024/07/Kill_2000x3000_legal_V2_2802550150-e1719832053921.jpg",
-        "link": "https://iplayerhls.com/e/n4t47krad4is",
-        "cast": {
-            "hero": "Raghav Juyal",
-            "heroine": "Tanya Maniktala",
-            "director": "Nikhil Nagesh Bhat"
-        },
-        "genre": "Thriller , Action",
-         "category": "Hindi Version"
-    },
-    {
-        "title": "Spider-Man: No Way Home",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMmFiZGZjMmEtMTA0Ni00MzA2LTljMTYtZGI2MGJmZWYzZTQ2XkEyXkFqcGc@.V1.jpg",
-        "hoverPoster": "https://wallpapers.com/images/featured/spider-man-no-way-home-pictures-l3ztimmzaeeqfgir.jpg",
-        "link": "https://drive.google.com/file/d/1QurD9Fm0wlVsFi64wTlfv3xERMz1qt3a/preview",
-        "cast": {
-            "hero": "Tom Holland",
-            "heroine": "Zendaya",
-            "director": "Jon Watts"
-        },
-        "genre": "Comedy",
-         "category": "Telugu Dubbed"
-    },
+    }
+    ,
     {
         "title": "Spider-Man: Far From Home",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMzNhNTE0NWQtN2E1Ny00NjcwLTg1YTctMGY1NmMwODJmY2NmXkEyXkFqcGc@._V1_.jpg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzNhNTE0NWQtN2E1Ny00NjcwLTg1YTctMGY1NmMwODJmY2NmXkEyXkFqcGc@.V1.jpg",
         "hoverPoster": "https://wallpapers.com/images/hd/spider-man-far-from-home-2019-with-webs-20kn64auos7fto65.jpg",
         "link": "https://drive.google.com/file/d/1569dJEvFo8mCKevswXOJsW4UlqwKY1EP/preview",
         "cast": {
@@ -808,21 +811,8 @@
          "category": "Telugu Dubbed"
     },
     {
-        "title": "Deadpool & Wolverine",
-        "poster": "https://m.media-amazon.com/images/M/MV5BZTk5ODY0MmQtMzA3Ni00NGY1LThiYzItZThiNjFiNDM4MTM3XkEyXkFqcGc@._V1_.jpg",
-        "hoverPoster": "https://i.ytimg.com/vi/j8kJOs3oTzg/maxresdefault.jpg",
-        "link": "https://iplayerhls.com/e/f3ca4p15p1zx",
-        "cast": {
-            "hero": "Ryan Reynolds,Hugh Jackman",
-            "heroine": "",
-            "director": "Morena Baccarin"
-        },
-        "genre": "Comedy ,Action",
-         "category": "Telugu Dubbed"
-    },
-    {
         "title": "MAD",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMTBiNDVkOWQtMGZhMC00MDA0LWI4ZjUtMWE3YjRmMDc3NzBjXkEyXkFqcGc@.V1.jpg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTBiNDVkOWQtMGZhMC00MDA0LWI4ZjUtMWE3YjRmMDc3NzBjXkEyXkFqcGc@._V1_.jpg",
         "hoverPoster": "https://i.ytimg.com/vi/bQRCyrNmhj4/maxresdefault.jpg",
         "link": "https://drive.google.com/file/d/1KbnTFal6vWcn0FW6IBLITylrDp9Wmxvo/preview",
         "cast": {
@@ -834,7 +824,7 @@
     },
     {
         "title": "Train to Busan",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMTkwOTQ4OTg0OV5BMl5BanBnXkFtZTgwMzQyOTM0OTE@._V1_.jpg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTkwOTQ4OTg0OV5BMl5BanBnXkFtZTgwMzQyOTM0OTE@.V1.jpg",
         "hoverPoster": "https://i.ytimg.com/vi/r7z6Xr85awc/hqdefault.jpg",
         "link": "https://iplayerhls.com/e/o8qvkjuv1ut5",
         "cast": {
@@ -855,8 +845,45 @@
             "heroine": "",
             "director": "Lokesh Kanagaraj"
         },
-        "genre": "Thriller ,Action",
+        "genre": "Thriller ,Action"
+    },
+    {
+        "title": "Deadpool & Wolverine",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTk5ODY0MmQtMzA3Ni00NGY1LThiYzItZThiNjFiNDM4MTM3XkEyXkFqcGc@.V1.jpg",
+        "hoverPoster": "https://i.ytimg.com/vi/j8kJOs3oTzg/maxresdefault.jpg",
+        "link": "https://iplayerhls.com/e/f3ca4p15p1zx",
+        "cast": {
+            "hero": "Ryan Reynolds,Hugh Jackman",
+            "heroine": "",
+            "director": "Morena Baccarin"
+        },
+        "genre": "Comedy ,Action",
          "category": "Telugu Dubbed"
+    },
+    {
+        "title": "Interstellar",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "hoverPoster": "https://www.hauweele.net/~gawen/blog/wp-content/uploads/2014/11/interstellar.jpg",
+        "link": "https://iplayerhls.com/e/sl9y4i7rmmwg",
+        "cast": {
+            "hero": "Matthew McConaughey",
+            "heroine": "Jessica Chastain",
+            "director": "Christopher Nolan"
+        },
+        "genre": "Sci-Fi, Adventure",
+         "category": "Telugu Dubbed"
+    },
+    {
+        "title": "Maa Nanna Super Hero",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzYxZjY5NmYtOTc1NC00ZmViLTlkMjEtNDM0OGU4YTg2MWRiXkEyXkFqcGc@._V1_.jpg",
+        "hoverPoster": "https://i.ytimg.com/vi/bw0eox2JlpE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDIbZKBXlr89Q6m4gR_u7I38z9PiQ",
+        "link": "https://drive.google.com/file/d/1-smqQ696oIJ3SdavJyXfrcIz5dnYMuf5/preview",
+        "cast": {
+            "hero": "Sudheer Babu",
+            "heroine": "",
+            "director": "Abhilash Reddy"
+        },
+        "genre": "Drama ,Family"
     },
     {
         "title": "Om Bheem Bush",
@@ -872,9 +899,9 @@
     },
     {
         "title": "Keedaa Cola",
-        "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/keedaa-cola-et00369553-1699610496.jpg",
+        "poster": "https://assets.gadgets360cdn.com/pricee/assets/product/202306/Keedaa-Cola-movie_1688114494.jpg",
         "hoverPoster": "https://images.hindustantimes.com/telugu/img/2023/12/28/1600x900/keeda_cola_1703759893582_1703759900638.jpg",
-        "link": "https://drive.google.com/file/d/1JGSUHAm-JoYsHU_g292erWXeHIU4JtnT/preview",
+        "link": "https://drive.google.com/file/d/1ssz-AfUt3vBkCKozDykFgsvZ7VJS7y7N/preview",
         "cast": {
             "hero": "Chaitanya Rao Madadi,Tharun Bhascker",
             "heroine": "",
@@ -883,8 +910,45 @@
         "genre": "Comedy,Crime"
     },
     {
+        "title": "Harom Hara",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZGViMTZiMzUtZTNlMi00ZDc3LTkzNTYtZGIzOTk4MDczODMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "hoverPoster": "https://m.media-amazon.com/images/S/pv-target-images/149eed1eb53eeec694bd4a47bcb0d9e0bb0b3ab063b6666ec9c300aae104ff65._SX1080_FMjpg_.jpg",
+        "link": "https://drive.google.com/file/d/1GhWp6wXHysnlgJk1MqhhFSxAg7QTsUk8/preview",
+        "cast": {
+            "hero": "Sudheer Babu",
+            "heroine": "Malvika Sharma",
+            "director": "Gnanasagar Dwaraka"
+        },
+        "genre": "Action,Drama"
+    },
+    {
+        "title": "ARM",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTdiZjI3OGYtZTk1YS00Mjk5LTlmYzktODQ4NDQyM2JjNmI3XkEyXkFqcGc@._V1_.jpg",
+        "hoverPoster": "https://preview.redd.it/is-arm-ajayante-randam-moshanam-worth-it-3d-normal-cinema-v0-xho9axhk9nod1.jpeg?auto=webp&s=ded1e4fc42263602e7a7eca3d1130d59566f2c25",
+        "link": "https://drive.google.com/file/d/18OQ2yqfboXAbGt5nu6v9_Sz3AUdjE8Im/preview",
+        "cast": {
+            "hero": "Tovino Thomas",
+            "heroine": "Krithi Shetty",
+            "director": "Jithin Laal"
+        },
+        "genre": "Adventure,Drama"
+    },
+    {
+        "title": "Temper",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYWMzNTc5YjItNDEyOS00N2Y3LTkxZGYtNGNjNDY1M2UwMGQ2XkEyXkFqcGc@._V1_.jpg",
+        "hoverPoster": "https://sund-images.sunnxt.com/7729/640x360_Temper_7729_64a62ea5-d8b1-490b-bf7c-5caa8e654927.jpg",
+        "link": "https://drive.google.com/file/d/1SIsKA9RzaqQ9TezIMyO29Sb-6n3Ir3-x/preview",
+        "cast": {
+            "hero": "jr NTR",
+            "heroine": "Kajal Agarwal",
+            "director": "Puri jagganath"
+        },
+        "genre": "Action,Thriller"
+    },
+    
+    {
         "title": "Premalu",
-        "poster": "https://english.idreampost.com/wp-content/uploads/2024/03/Premalu-Poste-image.jpg",
+        "poster": "https://www.businessoftollywood.com/wp-content/uploads/2024/03/Premalu-1-1.jpg",
         "hoverPoster": "https://cdn.gulte.com/wp-content/uploads/2024/03/premalu-1.jpg",
         "link": "https://drive.google.com/file/d/1t1lHWN2-Xdi39CBSIMs8S-qpE5DM3ED1/preview",
         "cast": {
@@ -893,6 +957,19 @@
             "director": "Girish A. D"
         },
         "genre": "Comedy,Romance"
+    },
+    
+    {
+        "title": "Swag",
+        "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/swag-et00401912-1727774376.jpg",
+        "hoverPoster": "https://assets-in.bmscdn.com/discovery-catalog/events/et00401912-wzrbktnwfh-landscape.jpg",
+        "link": "https://drive.google.com/file/d/1nNwUMzY7gLd-pclZD2XCuD_1H_4FbpNS/preview",
+        "cast": {
+            "hero": "Sree Vishnu",
+            "heroine": "ritu verma",
+            "director": "Cibi Chakaravarthi"
+        },
+        "genre": "Comedy,Thriller"
     },
     {
         "title": "Don",
@@ -907,64 +984,16 @@
         "genre": "Comedy,Action"
     },
     {
-        "title": "Swag",
-        "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/swag-et00401912-1727774376.jpg",
-        "hoverPoster": "https://assets-in.bmscdn.com/discovery-catalog/events/et00401912-wzrbktnwfh-landscape.jpg",
-        "link": "https://drive.google.com/file/d/1nNwUMzY7gLd-pclZD2XCuD_1H_4FbpNS/preview",
+        "title": "Miss Shetty Mr Polishetty",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZWYyOWMzYjYtZjIzMi00MmI1LWFlMjItYTRhZDZjMzEzNDljXkEyXkFqcGc@.V1.jpg",
+        "hoverPoster": "https://assets-in.bmscdn.com/discovery-catalog/events/et00353997-hcpqmmsbzk-landscape.jpg",
+        "link": "https://drive.google.com/file/d/1Ix2m3dd1u0o-Qd3V7S_I6dakP9ILfUH4/preview",
         "cast": {
-            "hero": "Sree Vishnu",
-            "heroine": "ritu verma",
-            "director": "Cibi Chakaravarthi"
+            "hero": "Naveen Polishetty",
+            "heroine": "Anushka Shetty",
+            "director": "Mahesh Babu"
         },
-        "genre": "Comedy,Thriller"
-    },
-    {
-        "title": "Maa Nanna Super Hero",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMzYxZjY5NmYtOTc1NC00ZmViLTlkMjEtNDM0OGU4YTg2MWRiXkEyXkFqcGc@.V1.jpg",
-        "hoverPoster": "https://i.ytimg.com/vi/bw0eox2JlpE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDIbZKBXlr89Q6m4gR_u7I38z9PiQ",
-        "link": "https://drive.google.com/file/d/1-smqQ696oIJ3SdavJyXfrcIz5dnYMuf5/preview",
-        "cast": {
-            "hero": "Sudheer Babu",
-            "heroine": "",
-            "director": "Abhilash Reddy"
-        },
-        "genre": "Drama ,Family"
-    },
-    {
-        "title": "Harom Hara",
-        "poster": "https://m.media-amazon.com/images/M/MV5BZGViMTZiMzUtZTNlMi00ZDc3LTkzNTYtZGIzOTk4MDczODMyXkEyXkFqcGc@.V1_FMjpg_UX1000.jpg",
-        "hoverPoster": "https://m.media-amazon.com/images/S/pv-target-images/149eed1eb53eeec694bd4a47bcb0d9e0bb0b3ab063b6666ec9c300aae104ff65.SX1080_FMjpg.jpg",
-        "link": "https://drive.google.com/file/d/1GhWp6wXHysnlgJk1MqhhFSxAg7QTsUk8/preview",
-        "cast": {
-            "hero": "Sudheer Babu",
-            "heroine": "Malvika Sharma",
-            "director": "Gnanasagar Dwaraka"
-        },
-        "genre": "Action,Drama"
-    },
-    {
-        "title": "ARM",
-        "poster": "https://m.media-amazon.com/images/M/MV5BOTdiZjI3OGYtZTk1YS00Mjk5LTlmYzktODQ4NDQyM2JjNmI3XkEyXkFqcGc@.V1.jpg",
-        "hoverPoster": "https://preview.redd.it/is-arm-ajayante-randam-moshanam-worth-it-3d-normal-cinema-v0-xho9axhk9nod1.jpeg?auto=webp&s=ded1e4fc42263602e7a7eca3d1130d59566f2c25",
-        "link": "https://drive.google.com/file/d/18OQ2yqfboXAbGt5nu6v9_Sz3AUdjE8Im/preview",
-        "cast": {
-            "hero": "Tovino Thomas",
-            "heroine": "Krithi Shetty",
-            "director": "Jithin Laal"
-        },
-        "genre": "Adventure,Drama"
-    },
-    {
-        "title": "Temper",
-        "poster": "https://m.media-amazon.com/images/M/MV5BYWMzNTc5YjItNDEyOS00N2Y3LTkxZGYtNGNjNDY1M2UwMGQ2XkEyXkFqcGc@.V1.jpg",
-        "hoverPoster": "https://sund-images.sunnxt.com/7729/640x360_Temper_7729_64a62ea5-d8b1-490b-bf7c-5caa8e654927.jpg",
-        "link": "https://drive.google.com/file/d/1SIsKA9RzaqQ9TezIMyO29Sb-6n3Ir3-x/preview",
-        "cast": {
-            "hero": "jr NTR",
-            "heroine": "Kajal Agarwal",
-            "director": "Puri jagganath"
-        },
-        "genre": "Action,Thriller"
+        "genre": "Comedy,Romance"
     },
     {
         "title": "Dasara",
@@ -979,18 +1008,6 @@
         "genre": "Action,Thriller"
     },
     {
-        "title": "Miss Shetty Mr Polishetty",
-        "poster": "https://m.media-amazon.com/images/M/MV5BZWYyOWMzYjYtZjIzMi00MmI1LWFlMjItYTRhZDZjMzEzNDljXkEyXkFqcGc@.V1.jpg",
-        "hoverPoster": "https://assets-in.bmscdn.com/discovery-catalog/events/et00353997-hcpqmmsbzk-landscape.jpg",
-        "link": "https://drive.google.com/file/d/1Ix2m3dd1u0o-Qd3V7S_I6dakP9ILfUH4/preview",
-        "cast": {
-            "hero": "Naveen Polishetty",
-            "heroine": "Anushka Shetty",
-            "director": "Mahesh Babu"
-        },
-        "genre": "Comedy,Romance"
-    },
-    {
         "title": "The Wild Robot",
         "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/261/2024/08/15103059/wTnV3PCVW5O92JMrFvvrRcV39RU-scaled.jpg",
         "hoverPoster": "https://m.media-amazon.com/images/S/pv-target-images/b2031e02cd4e3c2a73d2f7990fe27a2c68ee206772632476b23e544253392503.jpg",
@@ -1003,28 +1020,73 @@
         "genre": "Family,Adventure"
     },
     {
+
         "title": "Bheeshma",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMmE3YTg0NGYtOGEzNS00MzE5LTkyZDktYWM3ZmM0Y2Q2N2Q2XkEyXkFqcGc@._V1_.jpg",
+
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmE3YTg0NGYtOGEzNS00MzE5LTkyZDktYWM3ZmM0Y2Q2N2Q2XkEyXkFqcGc@.V1.jpg",
+
         "hoverPoster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8QTsNs2D72JyNT2maEChvWjvlClaiOZJwsov7EiSdyHgPv3hEUnxfk1fEImvYQm2t_sFzD29puxpbNny5208AbH_7HhNpNC_SghyphenhyphenJS60fn4kTH7bI0p1oMZ3pB5AIA8cn5yinHhxEMS5S/s1600/bheeshma-review.jpg",
+
         "link": "https://drive.google.com/file/d/1mY5m59ttRCoPGkT0cp1NxkJu-8gGk7Sx/preview",
+
         "cast": {
+
             "hero": "Nithiin",
+
             "heroine": "Rashmika Mandanna",
+
             "director": "Venky Kudumula"
+
         },
+
         "genre": "Comedy,Romance"
+
     },
     {
-        "title": "Viduthalai Part 2",
-        "poster": "https://assetscdn1.paytm.com/images/cinema/VIDUTHALAI-2---Gallery-20d06d50-afb0-11ef-921a-6b45cf008ba4.jpg",
-        "hoverPoster": "https://lk-aps.bmscdn.com/events/mobile/viduthalai-part-2-et00005532-22-10-2024-02-28-17.jpg",
-        "link": "https://drive.google.com/file/d/1bsFfyjWCoDrj2JNxmzrQ1DX4yc7DgKA8/preview",
+
+        "title": "Waltair Veerayya",
+
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Waltair_Veerayya_poster.jpg/220px-Waltair_Veerayya_poster.jpg",
+
+        "hoverPoster": "https://i.ytimg.com/vi/JU-YE_PKgoQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDiBy9J7u8H1frvzjzua0mLkmu3mw",
+
+        "link": "https://drive.google.com/file/d/1bdKo3tHC0Gi7jrQS8CPQVA6FARqrMP2g/preview",
+
         "cast": {
-            "hero": "Vijay Sethupathi",
-            "heroine": "Manju Warrier",
-            "director": "Vetrimaaran"
+
+            "hero": "Chiranjeevi",
+
+            "heroine": "Sruthi Haasan",
+
+            "director": "Bobby Kolli"
+
         },
-        "genre": "Action,Drama"
+
+        "genre": "Comedy,Action"
+
+    },
+    {
+
+        "title": "Vidudala 2",
+
+        "poster": "https://assetscdn1.paytm.com/images/cinema/VIDUTHALAI-PART-608x800-2-48c92d60-6b59-11ef-93b2-a96b91e4a5b7.jpg",
+
+        "hoverPoster": "https://i.ytimg.com/vi/lglojaQlUVU/maxresdefault.jpg",
+
+        "link": "https://drive.google.com/file/d/1bsFfyjWCoDrj2JNxmzrQ1DX4yc7DgKA8/preview",
+
+        "cast": {
+
+            "hero": "Vijay Sethupathi, Soori",
+
+            "heroine": "Manju Warrier",
+
+            "director": "Vetrimaaran"
+
+        },
+
+        "genre": " Action,Drama"
+
     },
     {
         "title": "Sookshmadarshini",
@@ -1037,5 +1099,44 @@
             "director": "M. C. Jithin"
         },
         "genre": "comedy,mystery"
+    },
+    {
+        "title": "Eega",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/3/30/Eega_poster.jpg",
+        "hoverPoster": "https://static.moviecrow.com/gallery/20150730/68871-7bb06947b8bdb1ddd23f9aa90a72ace7.jpeg",
+        "link": "https://drive.google.com/file/d/1qTlh8anANNQlXAItD54g4H-cIpWhgse4/preview",
+        "cast": {
+            "hero": "Nani ",
+            "heroine": "Samantha",
+            "director": "SS Rajamouli"
+        },
+        "genre": "Action, Comedy"
+    },
+    {
+        "title": "Leader",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzYyMzZmY2EtY2Y5ZS00OTQ5LWFhZmUtZTljNDg5NDIzMjJjXkEyXkFqcGc@._V1_.jpg",
+        "hoverPoster": "https://images.jdmagicbox.com/comp/jd_social/news/2018jul18/image-97424-3j7bmp71dw.jpg",
+        "link": "https://drive.google.com/file/d/1Td-a6C5QVOwGtp6zZ-h4f3ebIDEQfvGj/preview",
+        "cast": {
+            "hero": "Rana Daggubati ",
+            "heroine": "Richa Langella",
+            "director": "Sekhar Kammula"
+        },
+        "genre": "Drama, PoliticalDrama"
+    },
+    {
+        "title": "Yamadonga",
+        "poster": "https://static.toiimg.com/photo/61315915.cms",
+        "hoverPoster": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1433/1371433-i-f2e82bcbdca0",
+        "link": "https://drive.google.com/file/d/1f8BQB5YfiSMBSOoJnVUklUhZ5WumbsSd/preview",
+        "cast": {
+            "hero": "N. T. Rama Rao Jr",
+            "heroine": "Priyamani",
+            "director": "S. S. Rajamouli"
+        },
+        "genre": "Action,Comedy"
     }
+    
+
+    
 ]
