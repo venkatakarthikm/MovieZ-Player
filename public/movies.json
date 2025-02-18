@@ -1135,8 +1135,30 @@
             "director": "S. S. Rajamouli"
         },
         "genre": "Action,Comedy"
+    },
+    {
+        "title": "Nannaku Prematho",
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOfTL2P52OekH0_FvATAhMcH7YI9GXj7rTvKpQb4A-PY44_VT2AlNqIZaJ97RzzOBvg04&usqp=CAU",
+        "hoverPoster": "https://upload.wikimedia.org/wikipedia/en/3/3a/Nannaku_Prematho_poster.jpg",
+        "link": "https://drive.google.com/file/d/16-I5_nRRWQMHSVqV4zu1ZI0pWFDBK8bc/preview",
+        "cast": {
+            "hero": "N. T. Rama Rao Jr",
+            "heroine": "Rakul Preet Singh",
+            "director": "Sukumar"
+        },
+        "genre": "Action, Thriller"
+    },
+    {
+        "title": "Tenet",
+        "poster": "https://media.themoviedb.org/t/p/w220_and_h330_face/9hMMIbz0Aw9zO2jXoJZPOpBiCtT.jpg",
+        "hoverPoster": "https://lh3.googleusercontent.com/proxy/SPp7cfHA6lXGbYXelRVR5wmMUieovhIFchMiEiP_cz8SHccDFB48d0ilUxBY829SK-vbINHUD-g7qE92o997WkokAgm-wK_gVhsCALQ",
+        "link": "https://ghbrisk.com/e/t2frzvt55hh0",
+        "cast": {
+            "hero": "John David Washington",
+            "heroine": "Elizabeth Debicki",
+            "director": "Christopher Nolan"
+        },
+        "genre": "Action, Thriller"
     }
-    
-
     
 ]
