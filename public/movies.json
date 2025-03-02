@@ -1159,6 +1159,42 @@
             "director": "Christopher Nolan"
         },
         "genre": "Action, Thriller"
+    },
+    {
+        "title": "Sankranthiki Vasthunam",
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2NiMzA5MjctZTJjNC00ZWRmLTgzMTctODdhYzFmN2VlY2FhXkEyXkFqcGc@._V1_.jpg",
+        "hoverPoster": "https://pbs.twimg.com/media/GgXORvlbcAAcFMF?format=jpg&name=900x900",
+        "link": "https://drive.google.com/file/d/1GbtZwbu-PW52O-U9Bu2bkxB7TCXQfMn3/view",
+        "cast": {
+            "hero": "Venkatesh",
+            "heroine": "Aishwarya Rajesh, Meenakshi Chaudhary",
+            "director": "Anil Ravipudi"
+        },
+        "genre": " Comedy, Adventure"
+    },
+    {
+        "title": "Oopiri",
+        "poster": "https://images.justwatch.com/poster/266157073/s332/oopiri",
+        "hoverPoster": "https://sund-images.sunnxt.com/7761/640x360_Oopiri_7761_b5de292b-e234-4a89-9bfa-ec0c308d0cd5.jpg",
+        "link": "https://drive.google.com/file/d/13ub3DVC0AVvmgUqqZwchHG-xyTwGe83t/preview",
+        "cast": {
+            "hero": "Akkineni Nagarjuna, Karthi",
+            "heroine": "Tamannaah",
+            "director": "Vamshi Paidipally"
+        },
+        "genre": "Comedy , Thriller"
+    },
+    {
+        "title": "Pushpa 2: The Rule",
+        "poster": "https://static.toiimg.com/photo/116011068/116011068.jpg",
+        "hoverPoster": "https://indiaglitz-media.s3.amazonaws.com/telugu/home/pushpa-2-review-1.jpg",
+        "link": "https://drive.google.com/file/d/1CuW-LqyLh5UfqailkeUlxj4hQW5Rv2_7/preview",
+        "cast": {
+            "hero": "Allu Arjun",
+            "heroine": "Rashmika Mandanna",
+            "director": "Sukumar"
+        },
+        "genre": "Action , Thriller"
     }
     
 ]
