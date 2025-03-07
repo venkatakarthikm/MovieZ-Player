@@ -1195,6 +1195,30 @@
             "director": "Sukumar"
         },
         "genre": "Action , Thriller"
+    },
+    {
+        "title": "Manamey",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTMxNTc0NzUtMzI3MS00YzQ3LThiMzAtNWVkNzg0MmM1Y2E0XkEyXkFqcGc@._V1_QL75_UX190_CR0,8,190,281_.jpg",
+        "hoverPoster": "https://img.nowrunning.com/content/movie/2024/nbk10-29723/bg_daaku-maharaaj.jpg",
+        "link": "https://drive.google.com/file/d/1elIs6iWOTZ4yLZ-HT4pcxKZSpWZ1LJ9t/preview",
+        "cast": {
+            "hero": "Daaku Maharaaj",
+            "heroine": "Pragya Jaiswal",
+            "director": "Bobby Kolli"
+        },
+        "genre": "Action,Adventure"
+    },
+    {
+        "title": "Manamey",
+        "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/manamey-et00391258-1717671295.jpg",
+        "hoverPoster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQihAMR9ZGXlxQTMQtlWU8KnKBpvztwKd5biQ&s",
+        "link": "https://drive.google.com/file/d/1tefaV85WzVsNfc6n2KqUJLwj8R4q5uHR/preview",
+        "cast": {
+            "hero": "Sharwanand",
+            "heroine": "Krithi Shetty",
+            "director": "Sriram Adittya"
+        },
+        "genre": "romantic , comedy , drama"
     }
     
 ]
